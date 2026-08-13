@@ -1,0 +1,752 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Official"
+    },
+    {
+      "description": "Official Microsoft open-source initiatives and repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Azure Quickstart Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-08-07T18:03:36Z",
+            "owner": "Azure",
+            "repo": "azure-quickstart-templates",
+            "stars": 14855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Synapse Machine Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-08-13T04:09:38Z",
+            "owner": "microsoft",
+            "repo": "SynapseML",
+            "stars": 5236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enterprise-Scale - Reference Implementation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-11T13:38:36Z",
+            "owner": "Azure",
+            "repo": "Enterprise-Scale",
+            "stars": 1953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Defender for Cloud",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-09T17:31:42Z",
+            "owner": "Azure",
+            "repo": "Microsoft-Defender-for-Cloud",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Resource Inventory",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-30T13:12:01Z",
+            "owner": "microsoft",
+            "repo": "ARI",
+            "stars": 1673
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Review Checklists",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-22T15:26:45Z",
+            "owner": "Azure",
+            "repo": "review-checklists",
+            "stars": 1331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSLab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-10T09:51:48Z",
+            "owner": "microsoft",
+            "repo": "MSLab",
+            "stars": 1298
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Network Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-10T06:53:06Z",
+            "owner": "Azure",
+            "repo": "Azure-Network-Security",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALZ Bicep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-08-03T09:04:19Z",
+            "owner": "Azure",
+            "repo": "ALZ-Bicep",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Quick Review",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T20:18:39Z",
+            "owner": "Azure",
+            "repo": "azqr",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continuous Cloud Optimization Insights",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Mathematica",
+            "last_commit": "2025-07-09T08:39:23Z",
+            "owner": "Azure",
+            "repo": "CCOInsights",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AKS Baseline reference implementation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-07-08T22:26:35Z",
+            "owner": "mspnp",
+            "repo": "aks-baseline",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Naming Tool",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-01T12:52:45Z",
+            "owner": "Azure",
+            "repo": "AzureNamingTool",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PSRule for Azure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-10T02:15:30Z",
+            "owner": "Azure",
+            "repo": "PSRule.Rules.Azure",
+            "stars": 447
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVDAccelerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-08-05T21:30:58Z",
+            "owner": "Azure",
+            "repo": "avdaccelerator",
+            "stars": 425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mission LZ (Landing Zone)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-07-24T15:15:23Z",
+            "owner": "Azure",
+            "repo": "missionlz",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AKS Landing Zone Accelerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-04-02T13:05:43Z",
+            "owner": "Azure",
+            "repo": "AKS-Landing-Zone-Accelerator",
+            "stars": 285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Service Landing Zone Accelerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-03-24T18:43:28Z",
+            "owner": "Azure",
+            "repo": "appservice-landing-zone-accelerator",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Migration Guide",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-06-05T21:56:49Z",
+            "owner": "Azure",
+            "repo": "migration",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Data Management & Analytics Scenario - Data Landing Zone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Bicep",
+            "last_commit": "2024-05-22T15:38:58Z",
+            "owner": "Azure",
+            "repo": "data-landing-zone",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevOps Tooling for Well-Architected Recommendation Process",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-04-20T16:18:51Z",
+            "owner": "Azure",
+            "repo": "WellArchitected-Tools",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Landing Zones for Canadian Public Sector",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-03-10T13:44:03Z",
+            "owner": "Azure",
+            "repo": "CanadaPubSecALZ",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Landing Zones Terraform AVM pattern module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-08-12T09:02:16Z",
+            "owner": "Azure",
+            "repo": "terraform-azurerm-avm-ptn-alz",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bicep subscription vending",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Bicep",
+            "last_commit": "2025-11-27T15:44:08Z",
+            "owner": "Azure",
+            "repo": "bicep-lz-vending",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Connectivity Toolkit (AzureCT)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-03-26T16:00:11Z",
+            "owner": "Azure",
+            "repo": "NetworkMonitoring",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALZ-PowerShell-Module",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-06T07:36:45Z",
+            "owner": "Azure",
+            "repo": "ALZ-PowerShell-Module",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Roles and Operations Management",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-11-15T05:09:33Z",
+            "owner": "Azure",
+            "repo": "cloud-rolesandops",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft Datacenter Migration Program Kit (DCM Kit)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-12T20:25:53Z",
+            "owner": "microsoft",
+            "repo": "dcmkit",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alert Toolkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "PowerShell",
+            "last_commit": "2023-06-02T18:30:38Z",
+            "owner": "microsoft",
+            "repo": "manageability-toolkits",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARO (Azure Red Hat OpenShift) Landing Zone Accelerator",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2025-07-09T09:50:20Z",
+            "owner": "Azure",
+            "repo": "ARO-Landing-Zone-Accelerator",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solution Architecture Questions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-07-26T18:03:07Z",
+            "owner": "Azure",
+            "repo": "Solution-Architecture-Questions",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Adoption Framework - Code samples and templates related to landing zone creation",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Official Repositories and Tools"
+    },
+    {
+      "description": "Microsoft delivered community engagement meetings.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Semantic Kernel Community Calls",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T17:05:12Z",
+            "owner": "microsoft",
+            "repo": "semantic-kernel",
+            "stars": 28445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure ARM/Bicep Community Calls",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Bicep",
+            "last_commit": "2026-08-13T01:50:40Z",
+            "owner": "Azure",
+            "repo": "bicep",
+            "stars": 3629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Development Community Call",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:10:05Z",
+            "owner": "Azure",
+            "repo": "azure-dev",
+            "stars": 560
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PowerShell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-17T15:55:41Z",
+            "owner": "PowerShell",
+            "repo": "PowerShell-RFC",
+            "stars": 466
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adaptive Cloud Community",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-04T17:22:02Z",
+            "owner": "microsoft",
+            "repo": "adaptive_cloud_community",
+            "stars": 113
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radius Community Meetings",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-29T22:29:55Z",
+            "owner": "radius-project",
+            "repo": "community",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Kubernetes Service (AKS) Community",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-04-26T19:16:26Z",
+            "owner": "theakscommunity",
+            "repo": "aks-community-meetings",
+            "stars": 17
+          }
+        }
+      ],
+      "title": "Official Meetups and Calls"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Community"
+    },
+    {
+      "description": "Community-created tools and repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Service Bus Explorer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-19T16:47:28Z",
+            "owner": "paolosalvatori",
+            "repo": "ServiceBusExplorer",
+            "stars": 2210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Must Learn KQL - the series, the book, the merch store",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-30T15:51:48Z",
+            "owner": "rod-trent",
+            "repo": "MustLearnKQL",
+            "stars": 1185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AzGovViz",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-08-04T11:13:47Z",
+            "owner": "JulianHayward",
+            "repo": "Azure-MG-Sub-Governance-Reporting",
+            "stars": 979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cloud Native Architecture Mapbook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-22T08:18:15Z",
+            "owner": "PacktPublishing",
+            "repo": "The-Azure-Cloud-Native-Architecture-Mapbook",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Tenant Security Solution (AzTS)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-07-31T10:10:24Z",
+            "owner": "azsk",
+            "repo": "AzTS-docs",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EntraOps",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2026-06-24T07:00:34Z",
+            "owner": "Cloud-Architekt",
+            "repo": "EntraOps",
+            "stars": 293
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Traffic Flow in Common Azure Networking Patterns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-29T17:39:46Z",
+            "owner": "mattfeltonma",
+            "repo": "azure-networking-patterns",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Local Hands-on-lab guides",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-11-22T00:49:32Z",
+            "owner": "DellGEOS",
+            "repo": "AzureLocalHOLs",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Topaz - Local Azure environment emulation for development",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T05:50:51Z",
+            "owner": "TheCloudTheory",
+            "repo": "Topaz",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Azure Local",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-24T07:41:48Z",
+            "owner": "schmittnieto",
+            "repo": "awesome-azure-local",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Architecture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-12-08T23:55:28Z",
+            "owner": "lukemurraynz",
+            "repo": "Azure-Architecture",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Enterprise Server Backup On Azure",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-01-14T16:40:13Z",
+            "owner": "humanascode",
+            "repo": "GitHub-Enterprise-Server-Backup-Azure",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure Design Stencils",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Community Repositories and Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:11:11.344Z",
+    "original_repository": "lukemurraynz/awesome-azure-architecture",
+    "original_repository_sha": "e4e43e778f79fecda4f77db14faad7b6e400df06",
+    "enhanced_repository": "enhansome/enhansome-azure-architecture",
+    "enhanced_repository_description": null,
+    "title": "Awesome Microsoft Azure Architecture with stars"
+  }
+}
