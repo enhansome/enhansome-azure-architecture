@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T04:09:38Z",
+            "last_commit": "2026-08-13T07:06:54Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5236
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-11T17:05:12Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28445
+            "stars": 28444
           }
         },
         {
@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T01:50:40Z",
+            "last_commit": "2026-08-13T04:42:28Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -490,7 +490,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T02:10:05Z",
+            "last_commit": "2026-08-13T06:47:35Z",
             "owner": "Azure",
             "repo": "azure-dev",
             "stars": 560
@@ -627,7 +627,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-07-31T10:10:24Z",
+            "last_commit": "2026-08-13T06:00:27Z",
             "owner": "azsk",
             "repo": "AzTS-docs",
             "stars": 313
@@ -644,7 +644,7 @@
             "last_commit": "2026-06-24T07:00:34Z",
             "owner": "Cloud-Architekt",
             "repo": "EntraOps",
-            "stars": 293
+            "stars": 294
           }
         },
         {
@@ -683,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T05:50:51Z",
+            "last_commit": "2026-08-13T06:27:35Z",
             "owner": "TheCloudTheory",
             "repo": "Topaz",
             "stars": 43
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:11:11.344Z",
+    "last_updated": "2026-08-13T08:05:40.269Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_sha": "e4e43e778f79fecda4f77db14faad7b6e400df06",
     "enhanced_repository": "enhansome/enhansome-azure-architecture",
