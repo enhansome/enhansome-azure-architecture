@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-07T18:03:36Z",
+            "last_commit": "2026-08-13T14:03:20Z",
             "owner": "Azure",
             "repo": "azure-quickstart-templates",
-            "stars": 14855
+            "stars": 14857
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-13T07:06:54Z",
+            "last_commit": "2026-08-14T07:34:04Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5236
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-11T13:38:36Z",
+            "last_commit": "2026-08-14T06:43:22Z",
             "owner": "Azure",
             "repo": "Enterprise-Scale",
             "stars": 1953
@@ -75,7 +75,7 @@
             "last_commit": "2026-07-30T13:12:01Z",
             "owner": "microsoft",
             "repo": "ARI",
-            "stars": 1673
+            "stars": 1674
           }
         },
         {
@@ -324,7 +324,7 @@
           "repo_info": {
             "archived": false,
             "language": "HCL",
-            "last_commit": "2026-08-12T09:02:16Z",
+            "last_commit": "2026-08-13T18:39:04Z",
             "owner": "Azure",
             "repo": "terraform-azurerm-avm-ptn-alz",
             "stars": 131
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-11T17:05:12Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28444
+            "stars": 28448
           }
         },
         {
@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-13T04:42:28Z",
+            "last_commit": "2026-08-13T20:25:05Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3629
@@ -490,10 +490,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T06:47:35Z",
+            "last_commit": "2026-08-14T07:49:48Z",
             "owner": "Azure",
             "repo": "azure-dev",
-            "stars": 560
+            "stars": 562
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-06-24T07:00:34Z",
             "owner": "Cloud-Architekt",
             "repo": "EntraOps",
-            "stars": 294
+            "stars": 297
           }
         },
         {
@@ -683,7 +683,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T06:27:35Z",
+            "last_commit": "2026-08-14T05:47:33Z",
             "owner": "TheCloudTheory",
             "repo": "Topaz",
             "stars": 43
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:05:40.269Z",
+    "last_updated": "2026-08-14T08:02:49.468Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_sha": "e4e43e778f79fecda4f77db14faad7b6e400df06",
     "enhanced_repository": "enhansome/enhansome-azure-architecture",
