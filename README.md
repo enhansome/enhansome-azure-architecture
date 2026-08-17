@@ -208,20 +208,20 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
-* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,861 | 🐛 996 | 🌐 Bicep | 📅 2026-08-13
-* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,237 | 🐛 185 | 🌐 Scala | 📅 2026-08-16
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,953 | 🐛 7 | 🌐 PowerShell | 📅 2026-08-14
+* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,860 | 🐛 996 | 🌐 Bicep | 📅 2026-08-13
+* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,237 | 🐛 186 | 🌐 Scala | 📅 2026-08-17
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,953 | 🐛 8 | 🌐 PowerShell | 📅 2026-08-17
 * [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,929 | 🐛 50 | 🌐 PowerShell | 📅 2026-07-09
 * [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,675 | 🐛 2 | 🌐 PowerShell | 📅 2026-07-30
 * [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,332 | 🐛 69 | 🌐 Python | 📅 2026-06-22
 * [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,298 | 🐛 23 | 🌐 PowerShell | 📅 2026-08-10
 * [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 937 | 🐛 16 | 🌐 PowerShell | 📅 2026-08-10
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 885 | 🐛 9 | 🌐 Bicep | 📅 2026-08-03
-* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 786 | 🐛 4 | 🌐 Go | 📅 2026-08-11
-* [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 755 | 🐛 11 | 🌐 Mathematica | 📅 2025-07-09
+* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 786 | 🐛 4 | 🌐 Go | 📅 2026-08-17
+* [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 756 | 🐛 11 | 🌐 Mathematica | 📅 2025-07-09
 * [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 748 | 🐛 0 | 🌐 Bicep | 📅 2026-07-08
-* [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 595 | 🐛 22 | 🌐 C# | 📅 2026-07-01
-* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 447 | 🐛 139 | 🌐 PowerShell | 📅 2026-08-10
+* [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 596 | 🐛 22 | 🌐 C# | 📅 2026-07-01
+* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 447 | 🐛 139 | 🌐 PowerShell | 📅 2026-08-17
 * [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 426 | 🐛 18 | 🌐 Bicep | 📅 2026-08-05
 * [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 293 | 🐛 79 | 🌐 Bicep | 📅 2026-07-24
 * [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) ⭐ 285 | 🐛 10 | 🌐 Bicep | 📅 2026-04-02
@@ -288,9 +288,9 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,455 | 🐛 243 | 🌐 C# | 📅 2026-08-11
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,459 | 🐛 245 | 🌐 C# | 📅 2026-08-11
 * [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,630 | 🐛 1,137 | 🌐 Bicep | 📅 2026-08-16
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 564 | 🐛 618 | 🌐 Go | 📅 2026-08-15
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 564 | 🐛 620 | 🌐 Go | 📅 2026-08-16
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 466 | 🐛 39 | 🌐 PowerShell | 📅 2026-07-17
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 113 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 81 | 🐛 3 | 📅 2026-07-29
@@ -375,12 +375,12 @@ Community-created tools and repositories.
 * [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL) ⭐ 1,185 | 🐛 0 | 📅 2026-01-30
 * [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 979 | 🐛 6 | 🌐 PowerShell | 📅 2026-08-04
 * [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) ⭐ 344 | 🐛 1 | 🌐 C# | 📅 2026-04-22
-* [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs) ⭐ 313 | 🐛 29 | 🌐 PowerShell | 📅 2026-08-13
-* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 297 | 🐛 16 | 🌐 PowerShell | 📅 2026-06-24
+* [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs) ⭐ 314 | 🐛 29 | 🌐 PowerShell | 📅 2026-08-13
+* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 299 | 🐛 16 | 🌐 PowerShell | 📅 2026-06-24
 * [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns) ⭐ 165 | 🐛 0 | 📅 2024-08-29
 * [Azure Local Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs) ⭐ 131 | 🐛 2 | 🌐 HTML | 📅 2025-11-22
 * [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz) ⭐ 43 | 🐛 65 | 🌐 C# | 📅 2026-08-15
-* [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local) ⭐ 18 | 🐛 18 | 📅 2026-07-24
+* [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local) ⭐ 18 | 🐛 19 | 📅 2026-07-24
 * [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture) ⭐ 6 | 🐛 0 | 📅 2022-12-08
 * [GitHub Enterprise Server Backup On Azure](https://github.com/humanascode/GitHub-Enterprise-Server-Backup-Azure) ⭐ 2 | 🐛 0 | 🌐 Shell | 📅 2025-01-14
 * [Microsoft Azure - Center for Internet Security](https://www.cisecurity.org/benchmark/azure/)
@@ -445,4 +445,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._

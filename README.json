@@ -19,7 +19,7 @@
             "last_commit": "2026-08-13T14:03:20Z",
             "owner": "Azure",
             "repo": "azure-quickstart-templates",
-            "stars": 14861
+            "stars": 14860
           }
         },
         {
@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Scala",
-            "last_commit": "2026-08-16T06:56:23Z",
+            "last_commit": "2026-08-17T07:35:32Z",
             "owner": "microsoft",
             "repo": "SynapseML",
             "stars": 5237
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-14T10:51:21Z",
+            "last_commit": "2026-08-17T01:54:46Z",
             "owner": "Azure",
             "repo": "Enterprise-Scale",
             "stars": 1953
@@ -142,7 +142,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-11T20:18:39Z",
+            "last_commit": "2026-08-17T07:05:50Z",
             "owner": "Azure",
             "repo": "azqr",
             "stars": 786
@@ -159,7 +159,7 @@
             "last_commit": "2025-07-09T08:39:23Z",
             "owner": "Azure",
             "repo": "CCOInsights",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -187,7 +187,7 @@
             "last_commit": "2026-07-01T12:52:45Z",
             "owner": "Azure",
             "repo": "AzureNamingTool",
-            "stars": 595
+            "stars": 596
           }
         },
         {
@@ -198,7 +198,7 @@
           "repo_info": {
             "archived": false,
             "language": "PowerShell",
-            "last_commit": "2026-08-10T02:15:30Z",
+            "last_commit": "2026-08-17T02:02:21Z",
             "owner": "Azure",
             "repo": "PSRule.Rules.Azure",
             "stars": 447
@@ -465,7 +465,7 @@
             "last_commit": "2026-08-11T17:05:12Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28455
+            "stars": 28459
           }
         },
         {
@@ -476,7 +476,7 @@
           "repo_info": {
             "archived": false,
             "language": "Bicep",
-            "last_commit": "2026-08-16T06:45:30Z",
+            "last_commit": "2026-08-16T23:50:15Z",
             "owner": "Azure",
             "repo": "bicep",
             "stars": 3630
@@ -490,7 +490,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T21:07:53Z",
+            "last_commit": "2026-08-16T21:00:31Z",
             "owner": "Azure",
             "repo": "azure-dev",
             "stars": 564
@@ -630,7 +630,7 @@
             "last_commit": "2026-08-13T06:00:27Z",
             "owner": "azsk",
             "repo": "AzTS-docs",
-            "stars": 313
+            "stars": 314
           }
         },
         {
@@ -644,7 +644,7 @@
             "last_commit": "2026-06-24T07:00:34Z",
             "owner": "Cloud-Architekt",
             "repo": "EntraOps",
-            "stars": 297
+            "stars": 299
           }
         },
         {
@@ -742,7 +742,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:18:31.761Z",
+    "last_updated": "2026-08-17T07:39:12.626Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_sha": "e4e43e778f79fecda4f77db14faad7b6e400df06",
     "enhanced_repository": "enhansome/enhansome-azure-architecture",
