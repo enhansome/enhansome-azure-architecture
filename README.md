@@ -209,9 +209,9 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
-* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,861 | 🐛 997 | 🌐 Bicep | 📅 2026-08-13
-* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,238 | 🐛 149 | 🌐 Scala | 📅 2026-08-19
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,953 | 🐛 6 | 🌐 PowerShell | 📅 2026-08-19
+* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,862 | 🐛 997 | 🌐 Bicep | 📅 2026-08-13
+* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,238 | 🐛 148 | 🌐 Scala | 📅 2026-08-19
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,953 | 🐛 5 | 🌐 PowerShell | 📅 2026-08-19
 * [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,929 | 🐛 50 | 🌐 PowerShell | 📅 2026-07-09
 * [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,677 | 🐛 3 | 🌐 PowerShell | 📅 2026-07-30
 * [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,333 | 🐛 69 | 🌐 Python | 📅 2026-06-22
@@ -220,7 +220,7 @@ Official Microsoft open-source initiatives and repositories.
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 885 | 🐛 9 | 🌐 Bicep | 📅 2026-08-18
 * [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 786 | 🐛 4 | 🌐 Go | 📅 2026-08-18
 * [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 756 | 🐛 11 | 🌐 Mathematica | 📅 2025-07-09
-* [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 748 | 🐛 0 | 🌐 Bicep | 📅 2026-07-08
+* [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 749 | 🐛 0 | 🌐 Bicep | 📅 2026-07-08
 * [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 596 | 🐛 22 | 🌐 C# | 📅 2026-07-01
 * [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 447 | 🐛 140 | 🌐 PowerShell | 📅 2026-08-17
 * [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 426 | 🐛 18 | 🌐 Bicep | 📅 2026-08-05
@@ -289,9 +289,9 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,463 | 🐛 246 | 🌐 C# | 📅 2026-08-18
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,463 | 🐛 248 | 🌐 C# | 📅 2026-08-18
 * [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,631 | 🐛 1,089 | 🌐 Bicep | 📅 2026-08-19
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 566 | 🐛 620 | 🌐 Go | 📅 2026-08-19
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 566 | 🐛 622 | 🌐 Go | 📅 2026-08-19
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 466 | 🐛 39 | 🌐 PowerShell | 📅 2026-07-17
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 113 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 81 | 🐛 3 | 📅 2026-07-29
