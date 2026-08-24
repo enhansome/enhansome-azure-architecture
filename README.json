@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-24T02:44:56Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5238
+                "stars": 5239
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 264303818,
                 "language": "PowerShell",
-                "last_commit": "2026-08-24T01:55:09Z",
+                "last_commit": "2026-08-24T10:37:09Z",
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
                 "stars": 1954
@@ -62,7 +62,7 @@
                 "last_commit": "2026-07-09T17:31:42Z",
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1929
+                "stars": 1930
               }
             },
             {
@@ -77,7 +77,7 @@
                 "last_commit": "2026-08-19T19:01:01Z",
                 "owner": "microsoft",
                 "repo": "ARI",
-                "stars": 1678
+                "stars": 1679
               }
             },
             {
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-24T07:41:55Z",
+                "last_commit": "2026-08-24T13:09:56Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28484
+                "stars": 28489
               }
             },
             {
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-24T04:28:21Z",
+                "last_commit": "2026-08-24T09:59:03Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -531,7 +531,7 @@
                 "archived": false,
                 "id": 510889311,
                 "language": "Go",
-                "last_commit": "2026-08-24T07:29:11Z",
+                "last_commit": "2026-08-24T12:12:46Z",
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 566
@@ -608,6 +608,28 @@
     {
       "description": "Links below are from community sources, websites, and channels.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Azure - Considerations for Dev/Test \"Sandboxes\"",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 534043323,
+                "language": null,
+                "last_commit": "2023-10-26T20:28:41Z",
+                "owner": "dazzlejim",
+                "repo": "AzureSandbox",
+                "stars": 25
+              }
+            }
+          ],
+          "description": "Community blogs and articles.",
+          "node_type": "group",
+          "title": "Community Articles"
+        },
         {
           "children": [
             {
@@ -784,7 +806,7 @@
                 "archived": false,
                 "id": 972009675,
                 "language": "C#",
-                "last_commit": "2026-08-23T06:30:53Z",
+                "last_commit": "2026-08-24T12:59:51Z",
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
                 "stars": 44
@@ -875,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:44:40.696Z",
+    "last_updated": "2026-08-24T14:07:52.027Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_id": 446684634,
     "original_repository_sha": "f5384019c358cd6322fa1bd1cc5c810e0807f272",
