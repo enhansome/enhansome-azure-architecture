@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-22T21:22:41Z",
+                "last_commit": "2026-08-24T02:44:56Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5238
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 264303818,
                 "language": "PowerShell",
-                "last_commit": "2026-08-20T07:11:33Z",
+                "last_commit": "2026-08-24T01:55:09Z",
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
                 "stars": 1954
@@ -119,7 +119,7 @@
                 "archived": false,
                 "id": 215905001,
                 "language": "PowerShell",
-                "last_commit": "2026-08-10T06:53:06Z",
+                "last_commit": "2026-08-24T06:53:07Z",
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
                 "stars": 937
@@ -134,7 +134,7 @@
                 "archived": false,
                 "id": 396743838,
                 "language": "Bicep",
-                "last_commit": "2026-08-20T08:10:11Z",
+                "last_commit": "2026-08-24T07:02:56Z",
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
                 "stars": 885
@@ -149,10 +149,10 @@
                 "archived": false,
                 "id": 552832415,
                 "language": "Go",
-                "last_commit": "2026-08-21T07:06:38Z",
+                "last_commit": "2026-08-24T00:59:01Z",
                 "owner": "Azure",
                 "repo": "azqr",
-                "stars": 786
+                "stars": 785
               }
             },
             {
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-22T13:22:16Z",
+                "last_commit": "2026-08-24T07:41:55Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -227,7 +227,7 @@
                 "last_commit": "2026-08-19T17:10:10Z",
                 "owner": "Azure",
                 "repo": "avdaccelerator",
-                "stars": 428
+                "stars": 427
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28480
+                "stars": 28484
               }
             },
             {
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-23T04:48:25Z",
+                "last_commit": "2026-08-24T04:28:21Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -531,7 +531,7 @@
                 "archived": false,
                 "id": 510889311,
                 "language": "Go",
-                "last_commit": "2026-08-22T20:58:46Z",
+                "last_commit": "2026-08-24T07:29:11Z",
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 566
@@ -875,7 +875,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:20:54.185Z",
+    "last_updated": "2026-08-24T07:44:40.696Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_id": 446684634,
     "original_repository_sha": "f5384019c358cd6322fa1bd1cc5c810e0807f272",
