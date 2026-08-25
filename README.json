@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-24T10:37:09Z",
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
-                "stars": 1954
+                "stars": 1955
               }
             },
             {
@@ -137,7 +137,7 @@
                 "last_commit": "2026-08-24T07:02:56Z",
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
-                "stars": 885
+                "stars": 886
               }
             },
             {
@@ -504,7 +504,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28493
+                "stars": 28494
               }
             },
             {
@@ -516,7 +516,7 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-25T04:53:18Z",
+                "last_commit": "2026-08-25T07:12:58Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3631
@@ -897,7 +897,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:00:44.626Z",
+    "last_updated": "2026-08-25T07:31:15.754Z",
     "original_repository": "lukemurraynz/awesome-azure-architecture",
     "original_repository_id": 446684634,
     "original_repository_sha": "f5384019c358cd6322fa1bd1cc5c810e0807f272",
