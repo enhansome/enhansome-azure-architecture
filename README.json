@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T17:28:00Z",
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14865
+                "stars": 14866
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-27T05:05:17Z",
+                "last_commit": "2026-08-27T15:35:53Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
                 "stars": 5240
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 264303818,
                 "language": "PowerShell",
-                "last_commit": "2026-08-26T06:21:55Z",
+                "last_commit": "2026-08-27T13:56:16Z",
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
                 "stars": 1955
@@ -149,7 +149,7 @@
                 "archived": false,
                 "id": 552832415,
                 "language": "Go",
-                "last_commit": "2026-08-26T16:51:28Z",
+                "last_commit": "2026-08-27T17:38:12Z",
                 "owner": "Azure",
                 "repo": "azqr",
                 "stars": 788
@@ -209,7 +209,7 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-26T05:49:30Z",
+                "last_commit": "2026-08-27T15:29:28Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
@@ -359,7 +359,7 @@
                 "archived": false,
                 "id": 627965891,
                 "language": "HCL",
-                "last_commit": "2026-08-19T19:54:42Z",
+                "last_commit": "2026-08-27T16:21:22Z",
                 "owner": "Azure",
                 "repo": "terraform-azurerm-avm-ptn-alz",
                 "stars": 133
@@ -501,10 +501,10 @@
                 "archived": false,
                 "id": 607289185,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:41:58Z",
+                "last_commit": "2026-08-27T16:58:48Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28504
+                "stars": 28505
               }
             },
             {
@@ -516,10 +516,10 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T06:02:45Z",
+                "last_commit": "2026-08-27T17:07:35Z",
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3634
+                "stars": 3635
               }
             },
             {
@@ -531,7 +531,7 @@
                 "archived": false,
                 "id": 510889311,
                 "language": "Go",
-                "last_commit": "2026-08-27T09:18:23Z",
+                "last_commit": "2026-08-27T17:16:33Z",
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 566
@@ -701,7 +701,7 @@
                 "archived": false,
                 "id": 357971808,
                 "language": "PowerShell",
-                "last_commit": "2026-08-26T12:29:33Z",
+                "last_commit": "2026-08-27T11:28:02Z",
                 "owner": "azsk",
                 "repo": "AzTS-docs",
                 "stars": 314
@@ -806,7 +806,7 @@
                 "archived": false,
                 "id": 972009675,
                 "language": "C#",
-                "last_commit": "2026-08-26T06:05:37Z",
+                "last_commit": "2026-08-27T17:18:00Z",
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
                 "stars": 45
@@ -912,7 +912,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:26:39.343Z",
+    "last_updated": "2026-08-27T17:54:30.934Z",
     "original_repository_info": {
       "archived": false,
       "id": 446684634,
