@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-24T17:28:00Z",
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14866
-              }
+                "stars": 14867
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 93381875,
                 "language": "Scala",
-                "last_commit": "2026-08-27T15:35:53Z",
+                "last_commit": "2026-08-28T05:43:35Z",
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5240
-              }
+                "stars": 5242
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
                 "stars": 1955
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2026-07-09T17:31:42Z",
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1930
-              }
+                "stars": 1929
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "microsoft",
                 "repo": "ARI",
                 "stars": 1680
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "Azure",
                 "repo": "review-checklists",
                 "stars": 1333
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "microsoft",
                 "repo": "MSLab",
                 "stars": 1298
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -122,8 +129,9 @@
                 "last_commit": "2026-08-24T06:53:07Z",
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
-                "stars": 937
-              }
+                "stars": 939
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -134,11 +142,12 @@
                 "archived": false,
                 "id": 396743838,
                 "language": "Bicep",
-                "last_commit": "2026-08-26T08:12:18Z",
+                "last_commit": "2026-08-28T11:44:04Z",
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
                 "stars": 886
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "Azure",
                 "repo": "azqr",
                 "stars": 788
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "Azure",
                 "repo": "CCOInsights",
                 "stars": 756
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "mspnp",
                 "repo": "aks-baseline",
                 "stars": 748
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "Azure",
                 "repo": "AzureNamingTool",
                 "stars": 600
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -209,11 +222,12 @@
                 "archived": false,
                 "id": 184154668,
                 "language": "PowerShell",
-                "last_commit": "2026-08-27T15:29:28Z",
+                "last_commit": "2026-08-28T12:49:04Z",
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -224,11 +238,12 @@
                 "archived": false,
                 "id": 202399660,
                 "language": null,
-                "last_commit": "2026-08-26T15:48:52Z",
+                "last_commit": "2026-08-28T18:02:16Z",
                 "owner": "MicrosoftDocs",
                 "repo": "cloud-adoption-framework",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "Azure",
                 "repo": "avdaccelerator",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "Azure",
                 "repo": "missionlz",
                 "stars": 295
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "Azure",
                 "repo": "AKS-Landing-Zone-Accelerator",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "Azure",
                 "repo": "appservice-landing-zone-accelerator",
                 "stars": 237
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -303,7 +322,8 @@
                 "owner": "Azure",
                 "repo": "migration",
                 "stars": 193
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -318,7 +338,8 @@
                 "owner": "Azure",
                 "repo": "data-landing-zone",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -333,7 +354,8 @@
                 "owner": "Azure",
                 "repo": "WellArchitected-Tools",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -348,7 +370,8 @@
                 "owner": "Azure",
                 "repo": "CanadaPubSecALZ",
                 "stars": 142
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -359,11 +382,12 @@
                 "archived": false,
                 "id": 627965891,
                 "language": "HCL",
-                "last_commit": "2026-08-27T16:21:22Z",
+                "last_commit": "2026-08-28T16:28:25Z",
                 "owner": "Azure",
                 "repo": "terraform-azurerm-avm-ptn-alz",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -378,7 +402,8 @@
                 "owner": "Azure",
                 "repo": "bicep-lz-vending",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -389,11 +414,12 @@
                 "archived": false,
                 "id": 608612485,
                 "language": "PowerShell",
-                "last_commit": "2026-08-18T11:07:17Z",
+                "last_commit": "2026-08-28T07:53:17Z",
                 "owner": "Azure",
                 "repo": "ALZ-PowerShell-Module",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -408,7 +434,8 @@
                 "owner": "Azure",
                 "repo": "NetworkMonitoring",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -423,7 +450,8 @@
                 "owner": "Azure",
                 "repo": "cloud-rolesandops",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -438,7 +466,8 @@
                 "owner": "microsoft",
                 "repo": "dcmkit",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -453,7 +482,8 @@
                 "owner": "microsoft",
                 "repo": "manageability-toolkits",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -468,7 +498,8 @@
                 "owner": "Azure",
                 "repo": "ARO-Landing-Zone-Accelerator",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -483,7 +514,8 @@
                 "owner": "Azure",
                 "repo": "Solution-Architecture-Questions",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             }
           ],
           "description": "Official Microsoft open-source initiatives and repositories.",
@@ -504,8 +536,9 @@
                 "last_commit": "2026-08-27T16:58:48Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28505
-              }
+                "stars": 28509
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -516,11 +549,12 @@
                 "archived": false,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-27T17:07:35Z",
+                "last_commit": "2026-08-28T18:23:02Z",
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -531,11 +565,12 @@
                 "archived": false,
                 "id": 510889311,
                 "language": "Go",
-                "last_commit": "2026-08-27T17:16:33Z",
+                "last_commit": "2026-08-28T18:55:38Z",
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 566
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -550,7 +585,8 @@
                 "owner": "PowerShell",
                 "repo": "PowerShell-RFC",
                 "stars": 466
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -565,7 +601,8 @@
                 "owner": "microsoft",
                 "repo": "adaptive_cloud_community",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -580,7 +617,8 @@
                 "owner": "radius-project",
                 "repo": "community",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -595,7 +633,8 @@
                 "owner": "theakscommunity",
                 "repo": "aks-community-meetings",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             }
           ],
           "description": "Microsoft delivered community engagement meetings.",
@@ -623,7 +662,8 @@
                 "owner": "dazzlejim",
                 "repo": "AzureSandbox",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             }
           ],
           "description": "Community blogs and articles.",
@@ -645,7 +685,8 @@
                 "owner": "paolosalvatori",
                 "repo": "ServiceBusExplorer",
                 "stars": 2213
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -660,7 +701,8 @@
                 "owner": "rod-trent",
                 "repo": "MustLearnKQL",
                 "stars": 1188
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -675,7 +717,8 @@
                 "owner": "JulianHayward",
                 "repo": "Azure-MG-Sub-Governance-Reporting",
                 "stars": 979
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -690,7 +733,8 @@
                 "owner": "PacktPublishing",
                 "repo": "The-Azure-Cloud-Native-Architecture-Mapbook",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -705,7 +749,8 @@
                 "owner": "azsk",
                 "repo": "AzTS-docs",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -720,7 +765,8 @@
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 302
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -735,7 +781,8 @@
                 "owner": "mattfeltonma",
                 "repo": "azure-networking-patterns",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -750,7 +797,8 @@
                 "owner": "lgmorand",
                 "repo": "the-aks-checklist",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -765,7 +813,8 @@
                 "owner": "DellGEOS",
                 "repo": "AzureLocalHOLs",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -780,7 +829,8 @@
                 "owner": "Azure",
                 "repo": "ServerlessLibrary",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -795,7 +845,8 @@
                 "owner": "cricketthomas",
                 "repo": "AzureKeyVaultExplorer",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -806,11 +857,12 @@
                 "archived": false,
                 "id": 972009675,
                 "language": "C#",
-                "last_commit": "2026-08-27T17:18:00Z",
+                "last_commit": "2026-08-28T11:54:01Z",
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -825,7 +877,8 @@
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-local",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -840,7 +893,8 @@
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-virtual-desktop",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -855,7 +909,8 @@
                 "owner": "chunliu",
                 "repo": "vnet-capacity-planner",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -870,7 +925,8 @@
                 "owner": "lukemurraynz",
                 "repo": "Azure-Architecture",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -885,7 +941,8 @@
                 "owner": "humanascode",
                 "repo": "GitHub-Enterprise-Server-Backup-Azure",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             },
             {
               "node_type": "item",
@@ -900,7 +957,8 @@
                 "owner": "victorlane",
                 "repo": "azure-az104",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
             }
           ],
           "description": "Community-created tools and repositories.",
@@ -912,7 +970,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:54:30.934Z",
+    "last_updated": "2026-08-28T19:01:06.521Z",
     "original_repository_info": {
       "archived": false,
       "id": 446684634,
