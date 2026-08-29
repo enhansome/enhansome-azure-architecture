@@ -209,29 +209,29 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
-* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,867 | 🐛 990 | 🌐 Bicep | 📅 2026-08-24
+* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,868 | 🐛 993 | 🌐 Bicep | 📅 2026-08-24
 * [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,242 | 🐛 141 | 🌐 Scala | 📅 2026-08-28
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,955 | 🐛 3 | 🌐 PowerShell | 📅 2026-08-27
-* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,929 | 🐛 52 | 🌐 PowerShell | 📅 2026-07-09
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,955 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-27
+* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,929 | 🐛 53 | 🌐 PowerShell | 📅 2026-07-09
 * [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,680 | 🐛 4 | 🌐 PowerShell | 📅 2026-08-19
-* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,333 | 🐛 70 | 🌐 Python | 📅 2026-06-22
+* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,333 | 🐛 71 | 🌐 Python | 📅 2026-06-22
 * [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,298 | 🐛 24 | 🌐 PowerShell | 📅 2026-08-10
 * [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 939 | 🐛 17 | 🌐 PowerShell | 📅 2026-08-24
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 886 | 🐛 4 | 🌐 Bicep | 📅 2026-08-28
-* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 788 | 🐛 6 | 🌐 Go | 📅 2026-08-27
-* [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 756 | 🐛 11 | 🌐 Mathematica | 📅 2025-07-09
+* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 788 | 🐛 7 | 🌐 Go | 📅 2026-08-27
+* [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 756 | 🐛 12 | 🌐 Mathematica | 📅 2025-07-09
 * [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 748 | 🐛 0 | 🌐 Bicep | 📅 2026-07-08
-* [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 600 | 🐛 22 | 🌐 C# | 📅 2026-07-01
-* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 447 | 🐛 133 | 🌐 PowerShell | 📅 2026-08-28
+* [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 600 | 🐛 23 | 🌐 C# | 📅 2026-07-01
+* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 447 | 🐛 134 | 🌐 PowerShell | 📅 2026-08-28
 * [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 427 | 🐛 0 | 📅 2026-08-28
-* [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 426 | 🐛 16 | 🌐 Bicep | 📅 2026-08-19
-* [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 295 | 🐛 85 | 🌐 Bicep | 📅 2026-08-25
-* [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) ⭐ 286 | 🐛 10 | 🌐 Bicep | 📅 2026-04-02
-* [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) ⭐ 237 | 🐛 28 | 🌐 Bicep | 📅 2026-03-24
+* [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 426 | 🐛 17 | 🌐 Bicep | 📅 2026-08-19
+* [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 295 | 🐛 86 | 🌐 Bicep | 📅 2026-08-25
+* [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) ⭐ 286 | 🐛 11 | 🌐 Bicep | 📅 2026-04-02
+* [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) ⭐ 237 | 🐛 29 | 🌐 Bicep | 📅 2026-03-24
 * [The Migration Guide](https://github.com/Azure/migration) ⭐ 193 | 🐛 0 | 📅 2025-06-05
 * [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone) ⚠️ Archived
 * [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme) ⭐ 159 | 🐛 14 | 🌐 PowerShell | 📅 2026-04-20
-* [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ) ⭐ 142 | 🐛 2 | 🌐 Bicep | 📅 2026-03-10
+* [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ) ⭐ 142 | 🐛 3 | 🌐 Bicep | 📅 2026-03-10
 * [Azure Landing Zones Terraform AVM pattern module](https://github.com/Azure/terraform-azurerm-avm-ptn-alz) ⭐ 133 | 🐛 5 | 🌐 HCL | 📅 2026-08-28
 * [Bicep subscription vending](https://github.com/Azure/bicep-lz-vending) ⚠️ Archived
 * [ALZ-PowerShell-Module](https://github.com/Azure/ALZ-PowerShell-Module) ⭐ 114 | 🐛 2 | 🌐 PowerShell | 📅 2026-08-28
@@ -289,9 +289,9 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,509 | 🐛 263 | 🌐 C# | 📅 2026-08-27
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,511 | 🐛 263 | 🌐 C# | 📅 2026-08-27
 * [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,635 | 🐛 1,077 | 🌐 Bicep | 📅 2026-08-28
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 566 | 🐛 641 | 🌐 Go | 📅 2026-08-28
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 566 | 🐛 639 | 🌐 Go | 📅 2026-08-29
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 466 | 🐛 39 | 🌐 PowerShell | 📅 2026-08-20
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 114 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 81 | 🐛 3 | 📅 2026-07-29
@@ -448,4 +448,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

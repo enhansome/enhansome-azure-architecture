@@ -12,12 +12,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Quickstart Templates",
+                "homepage": "https://aka.ms/azqst",
                 "id": 34407651,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-24T17:28:00Z",
+                "open_issues": 993,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14867
+                "stars": 14868,
+                "topics": [
+                  "arm",
+                  "arm-templates",
+                  "azure",
+                  "bicep",
+                  "bicep-templates",
+                  "templates"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -28,12 +40,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark",
+                "homepage": "http://aka.ms/spark",
                 "id": 93381875,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-08-28T05:43:35Z",
+                "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5242
+                "stars": 5242,
+                "topics": [
+                  "ai",
+                  "apache-spark",
+                  "azure",
+                  "big-data",
+                  "cognitive-services",
+                  "data-science",
+                  "databricks",
+                  "deep-learning",
+                  "http",
+                  "lightgbm",
+                  "machine-learning",
+                  "microsoft",
+                  "ml",
+                  "model-deployment",
+                  "onnx",
+                  "opencv",
+                  "pyspark",
+                  "scala",
+                  "spark",
+                  "synapse"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -44,12 +82,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture",
+                "homepage": "https://aka.ms/alz",
                 "id": 264303818,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-27T13:56:16Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
-                "stars": 1955
+                "stars": 1955,
+                "topics": [
+                  "alz",
+                  "architecture",
+                  "arm",
+                  "azure",
+                  "azure-landing-zones",
+                  "azure-policy",
+                  "enterprise-scale",
+                  "eslz",
+                  "landing-zone",
+                  "landing-zones",
+                  "policy-driven"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -60,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to the Microsoft Defender for Cloud community repository",
+                "homepage": "https://azure.microsoft.com/en-us/services/security-center/",
                 "id": 184655500,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-07-09T17:31:42Z",
+                "open_issues": 53,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1929
+                "stars": 1929,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -76,12 +136,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Resource Inventory - It's a Powerful tool to create EXCEL inventory from Azure Resources with low effort",
+                "homepage": null,
                 "id": 318340455,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-19T19:01:01Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "ARI",
-                "stars": 1680
+                "stars": 1680,
+                "topics": [
+                  "architecture",
+                  "azure",
+                  "azure-cloudshell",
+                  "azure-inventory",
+                  "azure-resource-inventory",
+                  "cloud",
+                  "documentation",
+                  "importexcel",
+                  "inventory",
+                  "powershell"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -92,12 +168,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Review Checklists helps ensure you are following Microsoft best practices and recommendations across Platform, Applications and Services on Azure",
+                "homepage": null,
                 "id": 414928893,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-22T15:26:45Z",
+                "open_issues": 71,
                 "owner": "Azure",
                 "repo": "review-checklists",
-                "stars": 1333
+                "stars": 1333,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -108,12 +189,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Local (formerly Azure Stack HCI), Windows 10 and Windows Server rapid lab deployment scripts",
+                "homepage": null,
                 "id": 56715782,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:51:48Z",
+                "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "MSLab",
-                "stars": 1298
+                "stars": 1298,
+                "topics": [
+                  "azshci",
+                  "powershell",
+                  "s2d",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -124,12 +215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Resources for improving Customer Experience with Azure Network Security",
+                "homepage": null,
                 "id": 215905001,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-24T06:53:07Z",
+                "open_issues": 17,
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
-                "stars": 939
+                "stars": 939,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -140,12 +236,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains the Azure Landing Zones (ALZ) Bicep (Classic) modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs",
+                "homepage": null,
                 "id": 396743838,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-28T11:44:04Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "ALZ-Bicep",
-                "stars": 886
+                "stars": 886,
+                "topics": [
+                  "alz",
+                  "azure",
+                  "azure-landing-zones",
+                  "azure-policy",
+                  "bicep",
+                  "enterprise-scale",
+                  "eslz",
+                  "landing-zone",
+                  "landing-zones"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -156,12 +267,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Quick Review",
+                "homepage": "https://azure.github.io/azqr",
                 "id": 552832415,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-27T17:38:12Z",
+                "open_issues": 7,
                 "owner": "Azure",
                 "repo": "azqr",
-                "stars": 788
+                "stars": 788,
+                "topics": [
+                  "aprl",
+                  "assessment",
+                  "assessment-tool",
+                  "azqr",
+                  "azure",
+                  "best-practices",
+                  "hacktoberfest",
+                  "hacktoberfest-accepted"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -172,12 +297,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Welcome to the Continuous Cloud Optimization Power BI Dashboard GitHub Project. In this repository you will find all the guidance and files needed to deploy the Dashboard in your environment to take benefit of a single pane of glass to get insights about your Azure resources and services. ",
+                "homepage": "https://aka.ms/CCOInsights/videos",
                 "id": 153304113,
                 "language": "Mathematica",
+                "license": "MIT",
                 "last_commit": "2025-07-09T08:39:23Z",
+                "open_issues": 12,
                 "owner": "Azure",
                 "repo": "CCOInsights",
-                "stars": 756
+                "stars": 756,
+                "topics": [
+                  "asc",
+                  "azure",
+                  "azureadvisor",
+                  "cloud",
+                  "dashboard",
+                  "devops",
+                  "iaas",
+                  "microsoft",
+                  "microsoft-graph-api",
+                  "microsoft-rest-api",
+                  "microsoft-services",
+                  "optimization",
+                  "paas",
+                  "powerbi"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -188,12 +333,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the Azure Kubernetes Service (AKS) Baseline Cluster reference implementation as produced by the Microsoft Azure Architecture Center.",
+                "homepage": "https://aka.ms/architecture/aks-baseline",
                 "id": 278389771,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-07-08T22:26:35Z",
+                "open_issues": 0,
                 "owner": "mspnp",
                 "repo": "aks-baseline",
-                "stars": 748
+                "stars": 748,
+                "topics": [
+                  "aks",
+                  "architecture",
+                  "arm-templates",
+                  "azure",
+                  "azure-architecture-center",
+                  "azure-firewall",
+                  "azure-kubernetes-service",
+                  "bicep-templates",
+                  "hub-spoke",
+                  "kubernetes",
+                  "kubernetes-cluster",
+                  "microsoft",
+                  "reference-implementation",
+                  "virtual-network"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -204,12 +369,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure Naming Tool is a .NET 10 Blazor application with a RESTful API for generating and validating Azure resource names. Features include SQLite database support, drag-and-drop configuration, Azure tenant validation, and API V2 with bulk operations.",
+                "homepage": "https://aka.ms/azurenamingtool",
                 "id": 657701319,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-01T12:52:45Z",
+                "open_issues": 23,
                 "owner": "Azure",
                 "repo": "AzureNamingTool",
-                "stars": 600
+                "stars": 600,
+                "topics": [
+                  "azure",
+                  "best-practice",
+                  "naming-convention"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -220,12 +394,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.",
+                "homepage": "https://azure.github.io/PSRule.Rules.Azure/",
                 "id": 184154668,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T12:49:04Z",
+                "open_issues": 134,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
-                "stars": 447
+                "stars": 447,
+                "topics": [
+                  "azure",
+                  "azure-templates",
+                  "cicd",
+                  "devops",
+                  "devops-tools",
+                  "hacktoberfest",
+                  "infrastructure-as-code",
+                  "powershell",
+                  "powershell-module",
+                  "ps-rule",
+                  "rule",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -236,12 +428,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cloud Adoption Framework",
+                "homepage": null,
                 "id": 202399660,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2026-08-28T18:02:16Z",
+                "open_issues": 0,
                 "owner": "MicrosoftDocs",
                 "repo": "cloud-adoption-framework",
-                "stars": 427
+                "stars": 427,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -252,12 +449,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices",
+                "homepage": null,
                 "id": 447256665,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-19T17:10:10Z",
+                "open_issues": 17,
                 "owner": "Azure",
                 "repo": "avdaccelerator",
-                "stars": 426
+                "stars": 426,
+                "topics": [
+                  "automation",
+                  "avd",
+                  "azure",
+                  "azure-virtual-desktop",
+                  "bicep",
+                  "desktop",
+                  "lza",
+                  "terraform",
+                  "vdi",
+                  "virtual"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -268,12 +481,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure landing zone for SCCA-compliant organizations.",
+                "homepage": null,
                 "id": 340395682,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-08-25T18:06:36Z",
+                "open_issues": 86,
                 "owner": "Azure",
                 "repo": "missionlz",
-                "stars": 295
+                "stars": 295,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -284,12 +502,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the AKS Landing Zone Accelerator program",
+                "homepage": null,
                 "id": 443453235,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-04-02T13:05:43Z",
+                "open_issues": 11,
                 "owner": "Azure",
                 "repo": "AKS-Landing-Zone-Accelerator",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "lza"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -300,12 +525,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure App Service landing zone accelerator is an open-source collection of architectural guidance and reference implementation to accelerate deployment of Azure App Service at scale.",
+                "homepage": null,
                 "id": 446982379,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-03-24T18:43:28Z",
+                "open_issues": 29,
                 "owner": "Azure",
                 "repo": "appservice-landing-zone-accelerator",
-                "stars": 237
+                "stars": 237,
+                "topics": [
+                  "app-service",
+                  "app-service-environment",
+                  "architecture",
+                  "azure",
+                  "bicep",
+                  "iac",
+                  "landing-zone",
+                  "landing-zone-accelerator",
+                  "lza",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -316,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 533146606,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-06-05T21:56:49Z",
+                "open_issues": 0,
                 "owner": "Azure",
                 "repo": "migration",
-                "stars": 193
+                "stars": 193,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -332,12 +578,29 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Template to deploy a single Data Landing Zone of the Data Management & Analytics Scenario (former Enterprise-Scale Analytics). The Data Landing Zone is a logical construct and a unit of scale in the architecture that enables data retention and execution of data workloads for generating insights and value with data.",
+                "homepage": null,
                 "id": 285832816,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2024-05-22T15:38:58Z",
+                "open_issues": 18,
                 "owner": "Azure",
                 "repo": "data-landing-zone",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "architecture",
+                  "arm",
+                  "azure",
+                  "bicep",
+                  "data-fabric",
+                  "data-mesh",
+                  "data-platform",
+                  "datamesh",
+                  "enterprise-scale",
+                  "enterprise-scale-analytics",
+                  "policy-driven"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -348,12 +611,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for the Well-Architected Framework",
+                "homepage": null,
                 "id": 341243932,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-04-20T16:18:51Z",
+                "open_issues": 14,
                 "owner": "Azure",
                 "repo": "WellArchitected-Tools",
-                "stars": 159
+                "stars": 159,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -364,12 +632,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This reference implementation is based on Cloud Adoption Framework for Azure and provides an opinionated implementation that enables ITSG-33 regulatory compliance by using NIST SP 800-53 Rev. 4 and Canada Federal PBMM Regulatory Compliance Policy Sets.",
+                "homepage": null,
                 "id": 402766001,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2026-03-10T13:44:03Z",
+                "open_issues": 3,
                 "owner": "Azure",
                 "repo": "CanadaPubSecALZ",
-                "stars": 142
+                "stars": 142,
+                "topics": [
+                  "azure",
+                  "azure-devops",
+                  "bicep",
+                  "canada",
+                  "cloud-adoption-framework",
+                  "devops",
+                  "github-actions",
+                  "landing-zones",
+                  "microsoft",
+                  "powershell",
+                  "public-sector"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -380,12 +665,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform Azure Verified Pattern Module for Azure Landing Zone",
+                "homepage": "https://registry.terraform.io/modules/Azure/avm-ptn-alz",
                 "id": 627965891,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:28:25Z",
+                "open_issues": 5,
                 "owner": "Azure",
                 "repo": "terraform-azurerm-avm-ptn-alz",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "avm",
+                  "azure-verified-modules"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -396,12 +689,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Bicep module & pipelines to deploy landing zone subscriptions",
+                "homepage": null,
                 "id": 513104866,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2025-11-27T15:44:08Z",
+                "open_issues": 0,
                 "owner": "Azure",
                 "repo": "bicep-lz-vending",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "azure",
+                  "bicep",
+                  "landing-zone",
+                  "landing-zones",
+                  "subscription",
+                  "subscriptions",
+                  "vending-machine"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -412,12 +718,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure Landing Zones Accelerators PowerShell module",
+                "homepage": "https://www.powershellgallery.com/packages/ALZ/",
                 "id": 608612485,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-28T07:53:17Z",
+                "open_issues": 2,
                 "owner": "Azure",
                 "repo": "ALZ-PowerShell-Module",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "accelerator",
+                  "azure",
+                  "azure-devops",
+                  "azure-landing-zones",
+                  "bicep",
+                  "github-actions",
+                  "landing-zone",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -428,12 +748,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source Azure network monitoring tools repository.",
+                "homepage": null,
                 "id": 53154185,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2025-03-26T16:00:11Z",
+                "open_issues": 7,
                 "owner": "Azure",
                 "repo": "NetworkMonitoring",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -444,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Guidance for routine operations in Azure.",
+                "homepage": null,
                 "id": 515783853,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-11-15T05:09:33Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "cloud-rolesandops",
-                "stars": 107
+                "stars": 107,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -460,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datacenter Migration Program Kit",
+                "homepage": null,
                 "id": 136207952,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2023-06-12T20:25:53Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "dcmkit",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -476,12 +811,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Sample code to get quickly on-boarded to common Azure manageability tools and platforms like Azure Monitor.",
+                "homepage": null,
                 "id": 155297413,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2023-06-02T18:30:38Z",
+                "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "manageability-toolkits",
-                "stars": 69
+                "stars": 69,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -492,12 +832,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARO Landing Zone Accelerator Reference Implementation Repo",
+                "homepage": null,
                 "id": 439505458,
                 "language": "Bicep",
+                "license": "MIT",
                 "last_commit": "2025-07-09T09:50:20Z",
+                "open_issues": 9,
                 "owner": "Azure",
                 "repo": "ARO-Landing-Zone-Accelerator",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "lza"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -508,12 +855,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "For you to share with your customers",
+                "homepage": null,
                 "id": 257948469,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2021-07-26T18:03:07Z",
+                "open_issues": 1,
                 "owner": "Azure",
                 "repo": "Solution-Architecture-Questions",
-                "stars": 40
+                "stars": 40,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             }
@@ -531,12 +883,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+                "homepage": "https://aka.ms/semantic-kernel",
                 "id": 607289185,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:58:48Z",
+                "open_issues": 263,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28509
+                "stars": 28511,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "llm",
+                  "openai",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -547,12 +910,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bicep is a declarative language for describing and deploying Azure resources",
+                "homepage": null,
                 "id": 263503250,
                 "language": "Bicep",
-                "last_commit": "2026-08-28T18:23:02Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T21:34:18Z",
+                "open_issues": 1077,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3635
+                "stars": 3635,
+                "topics": [
+                  "arm-json",
+                  "arm-templates",
+                  "bicep"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -563,12 +935,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A developer CLI for working with Azure resources to build and deploy AI applications. Commands map to key workflow stages: code, build, deploy, and monitor.",
+                "homepage": "https://aka.ms/azd",
                 "id": 510889311,
                 "language": "Go",
-                "last_commit": "2026-08-28T18:55:38Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T00:46:53Z",
+                "open_issues": 639,
                 "owner": "Azure",
                 "repo": "azure-dev",
-                "stars": 566
+                "stars": 566,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "azure",
+                  "cli",
+                  "deployments",
+                  "microsoft"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -579,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RFC (Request for Comments) documents for community feedback on design changes and improvements to PowerShell ecosystem",
+                "homepage": null,
                 "id": 39794651,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-20T20:35:21Z",
+                "open_issues": 39,
                 "owner": "PowerShell",
                 "repo": "PowerShell-RFC",
-                "stars": 466
+                "stars": 466,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -595,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository for hosting the Azure Adaptive Cloud Community content",
+                "homepage": null,
                 "id": 516436627,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2025-08-04T17:22:02Z",
+                "open_issues": 0,
                 "owner": "microsoft",
                 "repo": "adaptive_cloud_community",
-                "stars": 114
+                "stars": 114,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -611,12 +1005,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Governance and community material for Radius",
+                "homepage": null,
                 "id": 654241648,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T22:29:55Z",
+                "open_issues": 3,
                 "owner": "radius-project",
                 "repo": "community",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -627,12 +1026,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 664836635,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-04-26T19:16:26Z",
+                "open_issues": 0,
                 "owner": "theakscommunity",
                 "repo": "aks-community-meetings",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             }
@@ -656,12 +1060,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This guide is intended to provide considerations when designing an Azure sandbox solution for your organizations Microsoft Azure focused cloud development teams. It will guide you through a thought process which is intended to help map out the reguirements in a logical way and also to provide some ideas of how to meet the various scenarios and needs of both the cloud development teams and Center IT Teams.",
+                "homepage": null,
                 "id": 534043323,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-26T20:28:41Z",
+                "open_issues": 0,
                 "owner": "dazzlejim",
                 "repo": "AzureSandbox",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             }
@@ -679,12 +1088,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Service Bus Explorer allows users to connect to a Service Bus namespace and administer messaging entities in an easy manner. The tool provides advanced features like import/export functionality or the ability to test topic, queues, subscriptions, relay services, notification hubs and events hubs.",
+                "homepage": null,
                 "id": 23918333,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-19T16:47:28Z",
+                "open_issues": 76,
                 "owner": "paolosalvatori",
                 "repo": "ServiceBusExplorer",
-                "stars": 2213
+                "stars": 2213,
+                "topics": [
+                  "azure",
+                  "azure-event-hub",
+                  "azure-event-hubs",
+                  "azure-eventhub",
+                  "azure-notification-hubs",
+                  "azure-notificationhub",
+                  "azure-relay",
+                  "azure-service-bus",
+                  "azure-servicebus",
+                  "dotnet",
+                  "messaging-entities",
+                  "notification-hubs",
+                  "service-bus",
+                  "windows-forms"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -695,12 +1124,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code included as part of the MustLearnKQL blog series",
+                "homepage": null,
                 "id": 429872957,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-01-30T15:51:48Z",
+                "open_issues": 0,
                 "owner": "rod-trent",
                 "repo": "MustLearnKQL",
-                "stars": 1188
+                "stars": 1188,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -711,12 +1145,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Azure Governance Visualizer aka AzGovViz is a PowerShell script that captures Azure Governance related information such as Azure Policy, RBAC (a lot more) by polling Azure ARM, Storage and Microsoft Graph APIs.",
+                "homepage": null,
                 "id": 242074500,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-04T11:13:47Z",
+                "open_issues": 7,
                 "owner": "JulianHayward",
                 "repo": "Azure-MG-Sub-Governance-Reporting",
-                "stars": 979
+                "stars": 979,
+                "topics": [
+                  "azure",
+                  "azure-policies",
+                  "azuregovernance",
+                  "azurepolicy",
+                  "rbac-roles"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -727,12 +1172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Azure Cloud Native Architecture Mapbook, published by Packt",
+                "homepage": null,
                 "id": 294626772,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-04-22T08:18:15Z",
+                "open_issues": 1,
                 "owner": "PacktPublishing",
                 "repo": "The-Azure-Cloud-Native-Architecture-Mapbook",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -743,12 +1193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357971808,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:28:02Z",
+                "open_issues": 29,
                 "owner": "azsk",
                 "repo": "AzTS-docs",
-                "stars": 314
+                "stars": 314,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -759,12 +1214,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community project to classify, identify and protect your privileges based on Enterprise Access Model (EAM)",
+                "homepage": "https://www.entraops.com",
                 "id": 804524445,
                 "language": "PowerShell",
+                "license": "MIT",
                 "last_commit": "2026-06-24T07:00:34Z",
+                "open_issues": 16,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 302
+                "stars": 302,
+                "topics": [
+                  "azuread",
+                  "microsoftentraid",
+                  "powershell",
+                  "privileged-access-management",
+                  "privileged-access-security"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -775,12 +1241,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains traffic patterns for common Azure networking patterns",
+                "homepage": null,
                 "id": 433591628,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-08-29T17:39:46Z",
+                "open_issues": 0,
                 "owner": "mattfeltonma",
                 "repo": "azure-networking-patterns",
-                "stars": 165
+                "stars": 165,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -791,12 +1262,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The AKS Checklist",
+                "homepage": "https://aka.ms/the-aks-checklist",
                 "id": 240534622,
                 "language": "HTML",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-10T16:52:16Z",
+                "open_issues": 0,
                 "owner": "lgmorand",
                 "repo": "the-aks-checklist",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "aks",
+                  "azure",
+                  "best-practices",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -807,12 +1288,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hands on labs for Azure Local",
+                "homepage": null,
                 "id": 420044472,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2025-11-22T00:49:32Z",
+                "open_issues": 2,
                 "owner": "DellGEOS",
                 "repo": "AzureLocalHOLs",
-                "stars": 131
+                "stars": 131,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -823,12 +1309,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Source code for the Azure Serverless Community Library",
+                "homepage": "https://www.serverlesslibrary.net/",
                 "id": 81237052,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2023-07-19T13:23:23Z",
+                "open_issues": 26,
                 "owner": "Azure",
                 "repo": "ServerlessLibrary",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "azure",
+                  "azure-functions",
+                  "functions",
+                  "javascript",
+                  "react",
+                  "serverless",
+                  "web-app",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -839,12 +1339,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A cross-platform GUI desktop application for aggregating/managing secrets (and keys and certificates) in Azure Key Vault",
+                "homepage": "https://apps.microsoft.com/detail/9mz794c6t74m?rtc=1&hl=en-us&gl=US&cid=github&gl=US",
                 "id": 593706186,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-09T22:56:32Z",
+                "open_issues": 15,
                 "owner": "cricketthomas",
                 "repo": "AzureKeyVaultExplorer",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "avalonia",
+                  "avaloniaui",
+                  "azure",
+                  "azure-key-vault",
+                  "azurekeyvault",
+                  "cross-platform",
+                  "dotnet",
+                  "fluentdesign",
+                  "gui",
+                  "keyvault",
+                  "linux",
+                  "macos",
+                  "ubuntu",
+                  "uno",
+                  "uno-platform",
+                  "windows",
+                  "winui",
+                  "xaml"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -855,12 +1379,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One binary. Multiple Azure services. No cloud required.",
+                "homepage": "https://topaz.thecloudtheory.com/",
                 "id": 972009675,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T11:54:01Z",
+                "open_issues": 64,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "azure",
+                  "dev-tools",
+                  "emulator",
+                  "local-development",
+                  "terraform",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -871,12 +1407,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of links and resources for working with Azure Local and its related technologies.",
+                "homepage": "https://github.com/schmittnieto/awesome-azure-local",
                 "id": 1034314526,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-22T16:04:52Z",
+                "open_issues": 21,
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-local",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "aks",
+                  "awesome",
+                  "awesome-list",
+                  "azure-local",
+                  "azurelocal",
+                  "azurestackhci",
+                  "azurevirtualdesktop",
+                  "hybrid",
+                  "s2d"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -887,12 +1438,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated Azure Virtual Desktop resources covering official Microsoft documentation, related technologies, third-party tools and community content.",
+                "homepage": null,
                 "id": 1232838585,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-08T22:02:04Z",
+                "open_issues": 16,
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-virtual-desktop",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "avd",
+                  "azure",
+                  "azure-virtual-desktop",
+                  "intune"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -903,12 +1464,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A capacity planner for Azure Virtual Network",
+                "homepage": "https://vnetplanner.chunliu.me/",
                 "id": 316499059,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2022-09-01T03:30:16Z",
+                "open_issues": 1,
                 "owner": "chunliu",
                 "repo": "vnet-capacity-planner",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "ant-design-blazor",
+                  "azure-virtualnetworks",
+                  "blazor"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -919,12 +1489,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Architecture resources, toolkits for People/Process I have put together, to help get you started on your Azure journey and develop your governance.",
+                "homepage": null,
                 "id": 443625888,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-12-08T23:55:28Z",
+                "open_issues": 0,
                 "owner": "lukemurraynz",
                 "repo": "Azure-Architecture",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -935,12 +1510,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Backup solution for GitHub Enterprise Server",
+                "homepage": null,
                 "id": 913394812,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2025-01-14T16:40:13Z",
+                "open_issues": 0,
                 "owner": "humanascode",
                 "repo": "GitHub-Enterprise-Server-Backup-Azure",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "azure",
+                  "azure-container-instances",
+                  "azure-container-registry",
+                  "azure-key-vault",
+                  "backup",
+                  "backup-script",
+                  "backup-tool",
+                  "backup-utility",
+                  "github",
+                  "github-enterprise-server",
+                  "serverless"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -951,12 +1543,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Study notes and hands-on Terraform examples for the AZ-104 Azure Administrator exam, plus a landing-zone reference architecture",
+                "homepage": "https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-104",
                 "id": 1343717058,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2026-08-23T12:16:33Z",
+                "open_issues": 0,
                 "owner": "victorlane",
                 "repo": "azure-az104",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "az-104",
+                  "azure",
+                  "azure-administrator",
+                  "azurerm",
+                  "certification",
+                  "cloud",
+                  "infrastructure-as-code",
+                  "landing-zone",
+                  "study-notes",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             }
@@ -970,15 +1578,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:01:06.521Z",
+    "last_updated": "2026-08-29T04:28:38.726Z",
     "original_repository_info": {
       "archived": false,
+      "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
+      "homepage": null,
       "id": 446684634,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-25T21:39:43Z",
+      "open_issues": 0,
       "owner": "lukemurraynz",
       "repo": "awesome-azure-architecture",
-      "stars": 1722
+      "stars": 1722,
+      "topics": [
+        "architecture",
+        "awesome",
+        "awesome-list",
+        "azure",
+        "cloud",
+        "microsoft",
+        "security"
+      ]
     },
     "original_repository_sha": "89fe15e60f89dba98c2c8d2ae758d481453d8366",
     "enhanced_repository": "enhansome/enhansome-azure-architecture",
