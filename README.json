@@ -49,7 +49,7 @@
                 "open_issues": 141,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5241,
+                "stars": 5242,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -198,7 +198,7 @@
                 "open_issues": 24,
                 "owner": "microsoft",
                 "repo": "MSLab",
-                "stars": 1299,
+                "stars": 1300,
                 "topics": [
                   "azshci",
                   "powershell",
@@ -399,8 +399,8 @@
                 "id": 184154668,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-08-28T12:49:04Z",
-                "open_issues": 134,
+                "last_commit": "2026-08-30T05:50:42Z",
+                "open_issues": 133,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 447,
@@ -423,6 +423,38 @@
             },
             {
               "node_type": "item",
+              "title": "AVDAccelerator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices",
+                "homepage": null,
+                "id": 447256665,
+                "language": "Bicep",
+                "license": "MIT",
+                "last_commit": "2026-08-19T17:10:10Z",
+                "open_issues": 17,
+                "owner": "Azure",
+                "repo": "avdaccelerator",
+                "stars": 427,
+                "topics": [
+                  "automation",
+                  "avd",
+                  "azure",
+                  "azure-virtual-desktop",
+                  "bicep",
+                  "desktop",
+                  "lza",
+                  "terraform",
+                  "vdi",
+                  "virtual"
+                ]
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
+            },
+            {
+              "node_type": "item",
               "title": "Cloud Adoption Framework repository",
               "description": null,
               "children": [],
@@ -439,38 +471,6 @@
                 "repo": "cloud-adoption-framework",
                 "stars": 427,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:01:06.521Z"
-            },
-            {
-              "node_type": "item",
-              "title": "AVDAccelerator",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "AVD Accelerator deployment automation to simplify the setup of AVD (Azure Virtual Desktop) based on best practices",
-                "homepage": null,
-                "id": 447256665,
-                "language": "Bicep",
-                "license": "MIT",
-                "last_commit": "2026-08-19T17:10:10Z",
-                "open_issues": 17,
-                "owner": "Azure",
-                "repo": "avdaccelerator",
-                "stars": 426,
-                "topics": [
-                  "automation",
-                  "avd",
-                  "azure",
-                  "azure-virtual-desktop",
-                  "bicep",
-                  "desktop",
-                  "lza",
-                  "terraform",
-                  "vdi",
-                  "virtual"
-                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -889,10 +889,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-27T16:58:48Z",
-                "open_issues": 264,
+                "open_issues": 265,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28515,
+                "stars": 28518,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -915,8 +915,8 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-08-29T09:16:13Z",
-                "open_issues": 1077,
+                "last_commit": "2026-08-30T09:29:58Z",
+                "open_issues": 1076,
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3635,
@@ -940,11 +940,11 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T09:46:11Z",
+                "last_commit": "2026-08-30T08:59:54Z",
                 "open_issues": 641,
                 "owner": "Azure",
                 "repo": "azure-dev",
-                "stars": 566,
+                "stars": 567,
                 "topics": [
                   "agents",
                   "ai",
@@ -1384,11 +1384,11 @@
                 "id": 972009675,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T06:09:28Z",
-                "open_issues": 64,
+                "last_commit": "2026-08-30T06:21:30Z",
+                "open_issues": 63,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
-                "stars": 45,
+                "stars": 47,
                 "topics": [
                   "azure",
                   "dev-tools",
@@ -1578,7 +1578,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:50:01.802Z",
+    "last_updated": "2026-08-30T12:15:18.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
