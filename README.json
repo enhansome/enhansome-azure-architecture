@@ -21,7 +21,7 @@
                 "open_issues": 1001,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14884,
+                "stars": 14885,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -142,7 +142,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-09-11T12:14:44Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "ARI",
                 "stars": 1687,
@@ -563,7 +563,7 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2025-06-05T21:56:49Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Azure",
                 "repo": "migration",
                 "stars": 194,
@@ -889,10 +889,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-19T01:54:57Z",
-                "open_issues": 309,
+                "open_issues": 310,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28578,
+                "stars": 28580,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -915,8 +915,8 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:23:40Z",
-                "open_issues": 1060,
+                "last_commit": "2026-09-20T09:28:35Z",
+                "open_issues": 1061,
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3645,
@@ -940,7 +940,7 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-19T09:10:00Z",
+                "last_commit": "2026-09-20T09:34:30Z",
                 "open_issues": 669,
                 "owner": "Azure",
                 "repo": "azure-dev",
@@ -972,7 +972,7 @@
                 "open_issues": 40,
                 "owner": "PowerShell",
                 "repo": "PowerShell-RFC",
-                "stars": 467,
+                "stars": 468,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1014,7 +1014,7 @@
                 "open_issues": 2,
                 "owner": "radius-project",
                 "repo": "community",
-                "stars": 81,
+                "stars": 82,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1133,7 +1133,7 @@
                 "open_issues": 0,
                 "owner": "rod-trent",
                 "repo": "MustLearnKQL",
-                "stars": 1193,
+                "stars": 1194,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1384,8 +1384,8 @@
                 "id": 972009675,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T05:26:51Z",
-                "open_issues": 52,
+                "last_commit": "2026-09-20T06:01:03Z",
+                "open_issues": 53,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
                 "stars": 50,
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T11:35:11.014Z",
+    "last_updated": "2026-09-20T11:50:22.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
