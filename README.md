@@ -218,7 +218,7 @@ Official Microsoft open-source initiatives and repositories.
 * [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,302 | 🐛 26 | 🌐 PowerShell | 📅 2026-08-10
 * [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 943 | 🐛 21 | 🌐 PowerShell | 📅 2026-09-13
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 890 | 🐛 8 | 🌐 Bicep | 📅 2026-09-08
-* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 792 | 🐛 6 | 🌐 Go | 📅 2026-09-25
+* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 793 | 🐛 6 | 🌐 Go | 📅 2026-09-25
 * [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 758 | 🐛 11 | 🌐 Wolfram Language | 📅 2026-09-22
 * [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 752 | 🐛 4 | 🌐 Bicep | 📅 2026-07-08
 * [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 604 | 🐛 16 | 🌐 C# | 📅 2026-09-24
@@ -289,8 +289,8 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,607 | 🐛 332 | 🌐 C# | 📅 2026-09-19
-* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,648 | 🐛 1,059 | 🌐 Bicep | 📅 2026-09-26
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,608 | 🐛 338 | 🌐 C# | 📅 2026-09-19
+* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,649 | 🐛 1,059 | 🌐 Bicep | 📅 2026-09-27
 * [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 570 | 🐛 698 | 🌐 Go | 📅 2026-09-26
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 468 | 🐛 40 | 🌐 PowerShell | 📅 2026-09-19
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 114 | 🐛 0 | 📅 2025-08-04
@@ -449,4 +449,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
