@@ -889,10 +889,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:26:46Z",
-                "open_issues": 333,
+                "open_issues": 335,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28620,
+                "stars": 28619,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -915,7 +915,7 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-02T11:06:42Z",
+                "last_commit": "2026-10-03T09:09:52Z",
                 "open_issues": 1065,
                 "owner": "Azure",
                 "repo": "bicep",
@@ -940,8 +940,8 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T22:59:24Z",
-                "open_issues": 675,
+                "last_commit": "2026-10-03T09:17:25Z",
+                "open_issues": 676,
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 570,
@@ -1202,7 +1202,7 @@
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:35:18.185Z",
+    "last_updated": "2026-10-03T12:03:32.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
