@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Azure Quickstart Templates",
-              "description": null,
+              "description": "Azure/azure-quickstart-templates",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 1012,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14886,
+                "stars": 14884,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Synapse Machine Learning",
-              "description": null,
+              "description": "microsoft/SynapseML",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -49,7 +49,7 @@
                 "open_issues": 140,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5248,
+                "stars": 5246,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "Enterprise-Scale - Reference Implementation",
-              "description": null,
+              "description": "Azure/Enterprise-Scale",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -111,7 +111,7 @@
             {
               "node_type": "item",
               "title": "Microsoft Defender for Cloud",
-              "description": null,
+              "description": "Azure/Microsoft-Defender-for-Cloud",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -132,7 +132,7 @@
             {
               "node_type": "item",
               "title": "Azure Resource Inventory",
-              "description": null,
+              "description": "microsoft/ARI",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -145,7 +145,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "ARI",
-                "stars": 1689,
+                "stars": 1688,
                 "topics": [
                   "architecture",
                   "azure",
@@ -164,7 +164,7 @@
             {
               "node_type": "item",
               "title": "Azure Review Checklists",
-              "description": null,
+              "description": "Azure/review-checklists",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -174,10 +174,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-15T01:03:53Z",
-                "open_issues": 72,
+                "open_issues": 73,
                 "owner": "Azure",
                 "repo": "review-checklists",
-                "stars": 1337,
+                "stars": 1336,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -185,7 +185,7 @@
             {
               "node_type": "item",
               "title": "MSLab",
-              "description": null,
+              "description": "microsoft/MSLab",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -211,7 +211,7 @@
             {
               "node_type": "item",
               "title": "Azure Network Security",
-              "description": null,
+              "description": "Azure/Azure-Network-Security",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -224,7 +224,7 @@
                 "open_issues": 21,
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
-                "stars": 942,
+                "stars": 941,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -232,7 +232,7 @@
             {
               "node_type": "item",
               "title": "ALZ Bicep",
-              "description": null,
+              "description": "Azure/ALZ-Bicep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -263,7 +263,7 @@
             {
               "node_type": "item",
               "title": "Azure Quick Review",
-              "description": null,
+              "description": "Azure/azqr",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -276,7 +276,7 @@
                 "open_issues": 6,
                 "owner": "Azure",
                 "repo": "azqr",
-                "stars": 794,
+                "stars": 793,
                 "topics": [
                   "aprl",
                   "assessment",
@@ -293,7 +293,7 @@
             {
               "node_type": "item",
               "title": "Continuous Cloud Optimization Insights",
-              "description": null,
+              "description": "Azure/CCOInsights",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -329,7 +329,7 @@
             {
               "node_type": "item",
               "title": "AKS Baseline reference implementation",
-              "description": null,
+              "description": "mspnp/aks-baseline",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -342,7 +342,7 @@
                 "open_issues": 1,
                 "owner": "mspnp",
                 "repo": "aks-baseline",
-                "stars": 752,
+                "stars": 751,
                 "topics": [
                   "aks",
                   "architecture",
@@ -365,7 +365,7 @@
             {
               "node_type": "item",
               "title": "Azure Naming Tool",
-              "description": null,
+              "description": "Azure/AzureNamingTool",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -378,7 +378,7 @@
                 "open_issues": 16,
                 "owner": "Azure",
                 "repo": "AzureNamingTool",
-                "stars": 605,
+                "stars": 604,
                 "topics": [
                   "azure",
                   "best-practice",
@@ -390,7 +390,7 @@
             {
               "node_type": "item",
               "title": "PSRule for Azure",
-              "description": null,
+              "description": "Azure/PSRule.Rules.Azure",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,8 +399,8 @@
                 "id": 184154668,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:39:39Z",
-                "open_issues": 141,
+                "last_commit": "2026-10-02T20:49:59Z",
+                "open_issues": 142,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 449,
@@ -424,7 +424,7 @@
             {
               "node_type": "item",
               "title": "Cloud Adoption Framework repository",
-              "description": null,
+              "description": "MicrosoftDocs/cloud-adoption-framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -445,7 +445,7 @@
             {
               "node_type": "item",
               "title": "AVDAccelerator",
-              "description": null,
+              "description": "Azure/avdaccelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -477,7 +477,7 @@
             {
               "node_type": "item",
               "title": "Mission LZ (Landing Zone)",
-              "description": null,
+              "description": "Azure/missionlz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -498,7 +498,7 @@
             {
               "node_type": "item",
               "title": "AKS Landing Zone Accelerator",
-              "description": null,
+              "description": "Azure/AKS-Landing-Zone-Accelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -521,7 +521,7 @@
             {
               "node_type": "item",
               "title": "App Service Landing Zone Accelerator",
-              "description": null,
+              "description": "Azure/appservice-landing-zone-accelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -553,7 +553,7 @@
             {
               "node_type": "item",
               "title": "The Migration Guide",
-              "description": null,
+              "description": "Azure/migration",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -574,7 +574,7 @@
             {
               "node_type": "item",
               "title": "Data Management & Analytics Scenario - Data Landing Zone",
-              "description": null,
+              "description": "Azure/data-landing-zone",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -607,7 +607,7 @@
             {
               "node_type": "item",
               "title": "DevOps Tooling for Well-Architected Recommendation Process",
-              "description": null,
+              "description": "Azure/WellArchitected-Tools",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -628,7 +628,7 @@
             {
               "node_type": "item",
               "title": "Azure Landing Zones for Canadian Public Sector",
-              "description": null,
+              "description": "Azure/CanadaPubSecALZ",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -661,7 +661,7 @@
             {
               "node_type": "item",
               "title": "Azure Landing Zones Terraform AVM pattern module",
-              "description": null,
+              "description": "Azure/terraform-azurerm-avm-ptn-alz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -685,7 +685,7 @@
             {
               "node_type": "item",
               "title": "Bicep subscription vending",
-              "description": null,
+              "description": "Azure/bicep-lz-vending",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -714,7 +714,7 @@
             {
               "node_type": "item",
               "title": "ALZ-PowerShell-Module",
-              "description": null,
+              "description": "Azure/ALZ-PowerShell-Module",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -744,7 +744,7 @@
             {
               "node_type": "item",
               "title": "Azure Connectivity Toolkit (AzureCT)",
-              "description": null,
+              "description": "Azure/NetworkMonitoring",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -765,7 +765,7 @@
             {
               "node_type": "item",
               "title": "Cloud Roles and Operations Management",
-              "description": null,
+              "description": "Azure/cloud-rolesandops",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -786,7 +786,7 @@
             {
               "node_type": "item",
               "title": "Microsoft Datacenter Migration Program Kit (DCM Kit)",
-              "description": null,
+              "description": "microsoft/dcmkit",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -807,7 +807,7 @@
             {
               "node_type": "item",
               "title": "Alert Toolkit",
-              "description": null,
+              "description": "microsoft/manageability-toolkits",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -828,7 +828,7 @@
             {
               "node_type": "item",
               "title": "ARO (Azure Red Hat OpenShift) Landing Zone Accelerator",
-              "description": null,
+              "description": "Azure/ARO-Landing-Zone-Accelerator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -851,7 +851,7 @@
             {
               "node_type": "item",
               "title": "Solution Architecture Questions",
-              "description": null,
+              "description": "Azure/Solution-Architecture-Questions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -879,7 +879,7 @@
             {
               "node_type": "item",
               "title": "Semantic Kernel Community Calls",
-              "description": null,
+              "description": "microsoft/semantic-kernel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -889,10 +889,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:26:46Z",
-                "open_issues": 328,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28623,
+                "stars": 28620,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -906,7 +906,7 @@
             {
               "node_type": "item",
               "title": "Azure ARM/Bicep Community Calls",
-              "description": null,
+              "description": "Azure/bicep",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -931,7 +931,7 @@
             {
               "node_type": "item",
               "title": "Azure Development Community Call",
-              "description": null,
+              "description": "Azure/azure-dev",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -940,11 +940,11 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-02T13:00:59Z",
-                "open_issues": 672,
+                "last_commit": "2026-10-02T22:59:24Z",
+                "open_issues": 675,
                 "owner": "Azure",
                 "repo": "azure-dev",
-                "stars": 571,
+                "stars": 570,
                 "topics": [
                   "agents",
                   "ai",
@@ -959,7 +959,7 @@
             {
               "node_type": "item",
               "title": "PowerShell",
-              "description": null,
+              "description": "PowerShell/PowerShell-RFC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "Adaptive Cloud Community",
-              "description": null,
+              "description": "microsoft/adaptive_cloud_community",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1001,7 +1001,7 @@
             {
               "node_type": "item",
               "title": "Radius Community Meetings",
-              "description": null,
+              "description": "radius-project/community",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1010,7 +1010,7 @@
                 "id": 654241648,
                 "language": null,
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T23:25:19Z",
+                "last_commit": "2026-10-02T19:14:35Z",
                 "open_issues": 2,
                 "owner": "radius-project",
                 "repo": "community",
@@ -1022,7 +1022,7 @@
             {
               "node_type": "item",
               "title": "Azure Kubernetes Service (AKS) Community",
-              "description": null,
+              "description": "theakscommunity/aks-community-meetings",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "Azure - Considerations for Dev/Test \"Sandboxes\"",
-              "description": null,
+              "description": "dazzlejim/AzureSandbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1084,7 +1084,7 @@
             {
               "node_type": "item",
               "title": "Service Bus Explorer",
-              "description": null,
+              "description": "paolosalvatori/ServiceBusExplorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1120,7 +1120,7 @@
             {
               "node_type": "item",
               "title": "Must Learn KQL - the series, the book, the merch store",
-              "description": null,
+              "description": "rod-trent/MustLearnKQL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1141,7 +1141,7 @@
             {
               "node_type": "item",
               "title": "AzGovViz",
-              "description": null,
+              "description": "JulianHayward/Azure-MG-Sub-Governance-Reporting",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1168,7 +1168,7 @@
             {
               "node_type": "item",
               "title": "Cloud Native Architecture Mapbook",
-              "description": null,
+              "description": "PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1189,7 +1189,7 @@
             {
               "node_type": "item",
               "title": "EntraOps",
-              "description": null,
+              "description": "Cloud-Architekt/EntraOps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1198,8 +1198,8 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-09-28T16:40:40Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-02T15:12:27Z",
+                "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
                 "stars": 329,
@@ -1216,7 +1216,7 @@
             {
               "node_type": "item",
               "title": "Azure Tenant Security Solution (AzTS)",
-              "description": null,
+              "description": "azsk/AzTS-docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +1237,7 @@
             {
               "node_type": "item",
               "title": "Traffic Flow in Common Azure Networking Patterns",
-              "description": null,
+              "description": "mattfeltonma/azure-networking-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1258,7 +1258,7 @@
             {
               "node_type": "item",
               "title": "The Azure Kubernetes Service Checklist",
-              "description": null,
+              "description": "lgmorand/the-aks-checklist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1284,7 +1284,7 @@
             {
               "node_type": "item",
               "title": "Azure Local Hands-on-lab guides",
-              "description": null,
+              "description": "DellGEOS/AzureLocalHOLs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1297,7 +1297,7 @@
                 "open_issues": 2,
                 "owner": "DellGEOS",
                 "repo": "AzureLocalHOLs",
-                "stars": 131,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1305,7 +1305,7 @@
             {
               "node_type": "item",
               "title": "Azure Serverless Community Library",
-              "description": null,
+              "description": "Azure/ServerlessLibrary",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1335,7 +1335,7 @@
             {
               "node_type": "item",
               "title": "Azure Key Vault Explorer",
-              "description": null,
+              "description": "cricketthomas/AzureKeyVaultExplorer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1375,7 +1375,7 @@
             {
               "node_type": "item",
               "title": "Topaz - Local Azure environment emulation for development",
-              "description": null,
+              "description": "TheCloudTheory/Topaz",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1403,7 +1403,7 @@
             {
               "node_type": "item",
               "title": "Awesome Azure Local",
-              "description": null,
+              "description": "schmittnieto/awesome-azure-local",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1434,7 +1434,7 @@
             {
               "node_type": "item",
               "title": "Awesome Azure Virtual Desktop",
-              "description": null,
+              "description": "schmittnieto/awesome-azure-virtual-desktop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1460,7 +1460,7 @@
             {
               "node_type": "item",
               "title": "Azure Virtual Network Capacity Planner",
-              "description": null,
+              "description": "chunliu/vnet-capacity-planner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1485,7 +1485,7 @@
             {
               "node_type": "item",
               "title": "Azure Architecture",
-              "description": null,
+              "description": "lukemurraynz/Azure-Architecture",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1506,7 +1506,7 @@
             {
               "node_type": "item",
               "title": "GitHub Enterprise Server Backup On Azure",
-              "description": null,
+              "description": "humanascode/GitHub-Enterprise-Server-Backup-Azure",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1571,7 +1571,7 @@
             {
               "node_type": "item",
               "title": "Cloudeval Azure ARM Review Example",
-              "description": null,
+              "description": "ganakailabs/cloudeval-azure-arm-review-example",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:12:36.714Z",
+    "last_updated": "2026-10-03T04:35:18.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
