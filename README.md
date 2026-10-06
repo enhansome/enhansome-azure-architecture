@@ -289,7 +289,7 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,630 | 🐛 342 | 🌐 C# | 📅 2026-10-06
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,630 | 🐛 341 | 🌐 C# | 📅 2026-10-06
 * [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,650 | 🐛 1,066 | 🌐 Bicep | 📅 2026-10-06
 * [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 570 | 🐛 689 | 🌐 Go | 📅 2026-10-06
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 468 | 🐛 40 | 🌐 PowerShell | 📅 2026-09-29
@@ -376,14 +376,14 @@ Community-created tools and repositories.
 * [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL) ⭐ 1,197 | 🐛 1 | 📅 2026-01-30
 * [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 981 | 🐛 0 | 🌐 PowerShell | 📅 2026-09-11
 * [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) ⭐ 344 | 🐛 1 | 🌐 C# | 📅 2026-04-22
-* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 329 | 🐛 18 | 🌐 PowerShell | 📅 2026-10-06
+* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 330 | 🐛 18 | 🌐 PowerShell | 📅 2026-10-06
 * [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs) ⭐ 314 | 🐛 29 | 🌐 PowerShell | 📅 2026-08-27
 * [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns) ⭐ 166 | 🐛 0 | 📅 2024-08-29
 * [The Azure Kubernetes Service Checklist](https://github.com/lgmorand/the-aks-checklist) ⭐ 158 | 🐛 0 | 🌐 HTML | 📅 2026-07-10
 * [Azure Local Hands-on-lab guides](https://github.com/DellGEOS/AzureStackHOLs) ⭐ 130 | 🐛 2 | 🌐 HTML | 📅 2026-09-22
 * [Azure Serverless Community Library](https://github.com/Azure/ServerlessLibrary) ⚠️ Archived
-* [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) ⭐ 117 | 🐛 17 | 🌐 C# | 📅 2026-09-27
-* [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz) ⭐ 54 | 🐛 50 | 🌐 C# | 📅 2026-10-05
+* [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) ⭐ 117 | 🐛 17 | 🌐 C# | 📅 2026-10-06
+* [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz) ⭐ 54 | 🐛 50 | 🌐 C# | 📅 2026-10-06
 * [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local) ⭐ 18 | 🐛 31 | 📅 2026-09-24
 * [Awesome Azure Virtual Desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop) ⭐ 10 | 🐛 25 | 📅 2026-09-25
 * [Azure Virtual Network Capacity Planner](https://github.com/chunliu/vnet-capacity-planner) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-01

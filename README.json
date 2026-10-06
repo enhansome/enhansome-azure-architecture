@@ -888,8 +888,8 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-06T10:26:15Z",
-                "open_issues": 342,
+                "last_commit": "2026-10-06T13:05:54Z",
+                "open_issues": 341,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28630,
@@ -1202,7 +1202,7 @@
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 329,
+                "stars": 330,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1344,7 +1344,7 @@
                 "id": 593706186,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-27T13:20:20Z",
+                "last_commit": "2026-10-06T11:20:31Z",
                 "open_issues": 17,
                 "owner": "cricketthomas",
                 "repo": "AzureKeyVaultExplorer",
@@ -1384,7 +1384,7 @@
                 "id": 972009675,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:39:27Z",
+                "last_commit": "2026-10-06T13:34:38Z",
                 "open_issues": 50,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:43:22.279Z",
+    "last_updated": "2026-10-06T13:38:38.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
