@@ -21,7 +21,7 @@
                 "open_issues": 1013,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14884,
+                "stars": 14883,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -49,7 +49,7 @@
                 "open_issues": 143,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5246,
+                "stars": 5244,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -145,7 +145,7 @@
                 "open_issues": 15,
                 "owner": "microsoft",
                 "repo": "ARI",
-                "stars": 1704,
+                "stars": 1706,
                 "topics": [
                   "architecture",
                   "azure",
@@ -276,7 +276,7 @@
                 "open_issues": 6,
                 "owner": "Azure",
                 "repo": "azqr",
-                "stars": 795,
+                "stars": 796,
                 "topics": [
                   "aprl",
                   "assessment",
@@ -403,7 +403,7 @@
                 "open_issues": 141,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
-                "stars": 450,
+                "stars": 449,
                 "topics": [
                   "azure",
                   "azure-templates",
@@ -433,7 +433,7 @@
                 "id": 202399660,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-10-08T01:03:33Z",
+                "last_commit": "2026-10-09T21:06:00Z",
                 "open_issues": 1,
                 "owner": "MicrosoftDocs",
                 "repo": "cloud-adoption-framework",
@@ -888,11 +888,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-07T08:33:35Z",
-                "open_issues": 349,
+                "last_commit": "2026-10-09T18:14:43Z",
+                "open_issues": 350,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28636,
+                "stars": 28638,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -915,11 +915,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-09T09:18:33Z",
-                "open_issues": 1067,
+                "last_commit": "2026-10-10T09:15:03Z",
+                "open_issues": 1065,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3653,
+                "stars": 3654,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -940,8 +940,8 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-09T13:02:29Z",
-                "open_issues": 696,
+                "last_commit": "2026-10-10T12:59:45Z",
+                "open_issues": 683,
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 570,
@@ -1202,7 +1202,7 @@
                 "open_issues": 18,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 330,
+                "stars": 329,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1599,7 +1599,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T13:48:22.074Z",
+    "last_updated": "2026-10-10T13:04:14.635Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
