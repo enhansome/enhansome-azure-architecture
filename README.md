@@ -209,21 +209,21 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
-* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,891 | 🐛 1,019 | 🌐 Bicep | 📅 2026-10-21
+* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,891 | 🐛 1,017 | 🌐 Bicep | 📅 2026-10-23
 * [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,248 | 🐛 144 | 🌐 Scala | 📅 2026-10-23
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,964 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-23
-* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,962 | 🐛 56 | 🌐 PowerShell | 📅 2026-10-07
-* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,719 | 🐛 10 | 🌐 PowerShell | 📅 2026-10-17
-* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,335 | 🐛 73 | 🌐 Python | 📅 2026-09-15
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,963 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-23
+* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,960 | 🐛 56 | 🌐 PowerShell | 📅 2026-10-07
+* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,720 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-17
+* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,335 | 🐛 74 | 🌐 Python | 📅 2026-09-15
 * [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,304 | 🐛 26 | 🌐 PowerShell | 📅 2026-08-10
 * [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 943 | 🐛 21 | 🌐 PowerShell | 📅 2026-10-03
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 891 | 🐛 9 | 🌐 Bicep | 📅 2026-10-09
-* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 798 | 🐛 3 | 🌐 Go | 📅 2026-10-22
+* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 798 | 🐛 3 | 🌐 Go | 📅 2026-10-23
 * [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 760 | 🐛 11 | 🌐 Wolfram Language | 📅 2026-09-22
-* [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 753 | 🐛 1 | 🌐 Bicep | 📅 2026-10-01
+* [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 752 | 🐛 1 | 🌐 Bicep | 📅 2026-10-01
 * [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 607 | 🐛 16 | 🌐 C# | 📅 2026-10-15
 * [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 449 | 🐛 146 | 🌐 PowerShell | 📅 2026-10-21
-* [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 431 | 🐛 1 | 📅 2026-10-19
+* [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 432 | 🐛 1 | 📅 2026-10-19
 * [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 428 | 🐛 24 | 🌐 Bicep | 📅 2026-08-19
 * [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 295 | 🐛 82 | 🌐 Bicep | 📅 2026-10-22
 * [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) ⭐ 289 | 🐛 15 | 🌐 Bicep | 📅 2026-04-02
@@ -289,9 +289,9 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,694 | 🐛 384 | 🌐 C# | 📅 2026-10-22
-* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,658 | 🐛 1,071 | 🌐 Bicep | 📅 2026-10-23
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 570 | 🐛 740 | 🌐 Go | 📅 2026-10-23
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,694 | 🐛 387 | 🌐 C# | 📅 2026-10-23
+* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,658 | 🐛 1,075 | 🌐 Bicep | 📅 2026-10-24
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 570 | 🐛 739 | 🌐 Go | 📅 2026-10-23
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 469 | 🐛 40 | 🌐 PowerShell | 📅 2026-10-16
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 114 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 83 | 🐛 2 | 📅 2026-10-22
@@ -451,4 +451,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
