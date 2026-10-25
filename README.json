@@ -18,10 +18,10 @@
                 "language": "Bicep",
                 "license": "MIT",
                 "last_commit": "2026-10-23T16:40:14Z",
-                "open_issues": 1017,
+                "open_issues": 1018,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14891,
+                "stars": 14892,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -49,7 +49,7 @@
                 "open_issues": 144,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5248,
+                "stars": 5249,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -490,7 +490,7 @@
                 "open_issues": 82,
                 "owner": "Azure",
                 "repo": "missionlz",
-                "stars": 295,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -892,7 +892,7 @@
                 "open_issues": 387,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28694,
+                "stars": 28697,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -915,11 +915,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-10-24T09:07:59Z",
-                "open_issues": 1075,
+                "last_commit": "2026-10-25T09:09:32Z",
+                "open_issues": 1076,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3658,
+                "stars": 3659,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -940,7 +940,7 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-10-23T20:43:56Z",
+                "last_commit": "2026-10-24T18:14:24Z",
                 "open_issues": 739,
                 "owner": "Azure",
                 "repo": "azure-dev",
@@ -1198,11 +1198,11 @@
                 "id": 804524445,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-10-22T11:34:24Z",
-                "open_issues": 15,
+                "last_commit": "2026-10-24T15:14:03Z",
+                "open_issues": 16,
                 "owner": "Cloud-Architekt",
                 "repo": "EntraOps",
-                "stars": 334,
+                "stars": 335,
                 "topics": [
                   "azuread",
                   "microsoftentraid",
@@ -1412,7 +1412,7 @@
                 "id": 1034314526,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-22T06:17:26Z",
+                "last_commit": "2026-10-25T10:43:47Z",
                 "open_issues": 2,
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-local",
@@ -1443,8 +1443,8 @@
                 "id": 1232838585,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-20T15:20:19Z",
-                "open_issues": 29,
+                "last_commit": "2026-10-25T10:54:39Z",
+                "open_issues": 30,
                 "owner": "schmittnieto",
                 "repo": "awesome-azure-virtual-desktop",
                 "stars": 10,
@@ -1570,27 +1570,6 @@
             },
             {
               "node_type": "item",
-              "title": "Cloudeval Azure ARM Review Example",
-              "description": "ganakailabs/cloudeval-azure-arm-review-example",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Public CloudEval GitHub App and Action example for nested Azure ARM IaC review",
-                "homepage": null,
-                "id": 1265872736,
-                "language": null,
-                "license": null,
-                "last_commit": "2026-09-02T02:45:35Z",
-                "open_issues": 6,
-                "owner": "ganakailabs",
-                "repo": "cloudeval-azure-arm-review-example",
-                "stars": 0,
-                "topics": []
-              },
-              "first_seen": "2026-09-09T11:53:46.896Z"
-            },
-            {
-              "node_type": "item",
               "title": "fairfax",
               "description": "Checks a GCC, GCC High, DoD or Azure Government plan against Microsoft's own feature availability tables, and finds commercial endpoints in code that belong to the wrong cloud.",
               "children": [],
@@ -1605,7 +1584,7 @@
                 "open_issues": 0,
                 "owner": "intikhab49",
                 "repo": "fairfax",
-                "stars": 0,
+                "stars": 1,
                 "topics": [
                   "azure",
                   "azure-government",
@@ -1630,6 +1609,27 @@
                 ]
               },
               "first_seen": "2026-10-18T11:44:14.126Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Cloudeval Azure ARM Review Example",
+              "description": "ganakailabs/cloudeval-azure-arm-review-example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Public CloudEval GitHub App and Action example for nested Azure ARM IaC review",
+                "homepage": null,
+                "id": 1265872736,
+                "language": null,
+                "license": null,
+                "last_commit": "2026-09-02T02:45:35Z",
+                "open_issues": 6,
+                "owner": "ganakailabs",
+                "repo": "cloudeval-azure-arm-review-example",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-09-09T11:53:46.896Z"
             }
           ],
           "description": "Community-created tools and repositories.",
@@ -1641,7 +1641,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:39:28.627Z",
+    "last_updated": "2026-10-25T12:01:38.928Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
