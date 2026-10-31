@@ -211,21 +211,21 @@ Official Microsoft open-source initiatives and repositories.
 
 * [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,897 | 🐛 1,023 | 🌐 Bicep | 📅 2026-10-29
 * [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,251 | 🐛 142 | 🌐 Scala | 📅 2026-10-29
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,964 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-29
-* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,960 | 🐛 58 | 🌐 PowerShell | 📅 2026-10-07
-* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,722 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-28
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,966 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-29
+* [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,960 | 🐛 60 | 🌐 PowerShell | 📅 2026-10-07
+* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,723 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-28
 * [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,335 | 🐛 74 | 🌐 Python | 📅 2026-09-15
 * [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,306 | 🐛 26 | 🌐 PowerShell | 📅 2026-10-27
 * [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 943 | 🐛 23 | 🌐 PowerShell | 📅 2026-10-30
-* [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 891 | 🐛 9 | 🌐 Bicep | 📅 2026-10-09
+* [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 892 | 🐛 9 | 🌐 Bicep | 📅 2026-10-09
 * [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 799 | 🐛 5 | 🌐 Go | 📅 2026-10-30
 * [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 760 | 🐛 11 | 🌐 Wolfram Language | 📅 2026-09-22
 * [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 752 | 🐛 1 | 🌐 Bicep | 📅 2026-10-01
 * [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 608 | 🐛 16 | 🌐 C# | 📅 2026-10-15
 * [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 449 | 🐛 150 | 🌐 PowerShell | 📅 2026-10-29
-* [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 432 | 🐛 1 | 📅 2026-10-27
+* [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 432 | 🐛 1 | 📅 2026-10-31
 * [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 428 | 🐛 24 | 🌐 Bicep | 📅 2026-08-19
-* [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 296 | 🐛 82 | 🌐 Bicep | 📅 2026-10-29
+* [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 296 | 🐛 82 | 🌐 Bicep | 📅 2026-10-30
 * [AKS Landing Zone Accelerator](https://github.com/Azure/AKS-Landing-Zone-Accelerator) ⭐ 289 | 🐛 15 | 🌐 Bicep | 📅 2026-04-02
 * [App Service Landing Zone Accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) ⭐ 239 | 🐛 29 | 🌐 Bicep | 📅 2026-03-24
 * [The Migration Guide](https://github.com/Azure/migration) ⭐ 194 | 🐛 1 | 📅 2025-06-05
@@ -289,12 +289,12 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,721 | 🐛 335 | 🌐 C# | 📅 2026-10-30
-* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,659 | 🐛 1,065 | 🌐 Bicep | 📅 2026-10-30
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,724 | 🐛 340 | 🌐 C# | 📅 2026-10-31
+* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,660 | 🐛 1,065 | 🌐 Bicep | 📅 2026-10-31
 * [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 571 | 🐛 744 | 🌐 Go | 📅 2026-10-30
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 469 | 🐛 40 | 🌐 PowerShell | 📅 2026-10-16
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 114 | 🐛 0 | 📅 2025-08-04
-* [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 83 | 🐛 1 | 📅 2026-10-28
+* [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 83 | 🐛 0 | 📅 2026-10-30
 * [Azure Kubernetes Service (AKS) Community](https://github.com/theakscommunity/aks-community-meetings) ⭐ 17 | 🐛 0 | 📅 2024-04-26
 * [Azure DSC Community Call](https://dsccommunity.org/community_calls/)
 * [Azure Landing Zone Community Calls](https://aka.ms/ALZ/CommunityCallAgenda)
@@ -451,4 +451,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
