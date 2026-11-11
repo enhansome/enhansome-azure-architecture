@@ -209,20 +209,20 @@ Official Microsoft ebooks and whitepapers.
 
 Official Microsoft open-source initiatives and repositories.
 
-* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,903 | 🐛 1,028 | 🌐 Bicep | 📅 2026-11-06
-* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,255 | 🐛 151 | 🌐 Scala | 📅 2026-11-10
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-10
+* [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,905 | 🐛 1,028 | 🌐 Bicep | 📅 2026-11-06
+* [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,255 | 🐛 148 | 🌐 Scala | 📅 2026-11-11
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,968 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-11
 * [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,960 | 🐛 60 | 🌐 PowerShell | 📅 2026-10-07
-* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,724 | 🐛 9 | 🌐 PowerShell | 📅 2026-10-28
-* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,335 | 🐛 74 | 🌐 Python | 📅 2026-09-15
-* [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,308 | 🐛 26 | 🌐 PowerShell | 📅 2026-10-27
-* [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 945 | 🐛 23 | 🌐 PowerShell | 📅 2026-10-30
+* [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,724 | 🐛 8 | 🌐 PowerShell | 📅 2026-11-11
+* [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,334 | 🐛 74 | 🌐 Python | 📅 2026-09-15
+* [MSLab](https://github.com/microsoft/MSLab) ⭐ 1,309 | 🐛 26 | 🌐 PowerShell | 📅 2026-10-27
+* [Azure Network Security](https://github.com/Azure/Azure-Network-Security) ⭐ 946 | 🐛 23 | 🌐 PowerShell | 📅 2026-10-30
 * [ALZ Bicep](https://github.com/Azure/ALZ-Bicep) ⭐ 892 | 🐛 9 | 🌐 Bicep | 📅 2026-10-09
-* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 801 | 🐛 4 | 🌐 Go | 📅 2026-11-10
+* [Azure Quick Review](https://github.com/Azure/azqr) ⭐ 801 | 🐛 4 | 🌐 Go | 📅 2026-11-11
 * [Continuous Cloud Optimization Insights](https://github.com/Azure/CCOInsights) ⭐ 760 | 🐛 11 | 🌐 Wolfram Language | 📅 2026-09-22
 * [AKS Baseline reference implementation](https://github.com/mspnp/aks-baseline) ⭐ 752 | 🐛 0 | 🌐 Bicep | 📅 2026-11-04
 * [Azure Naming Tool](https://github.com/mspnp/AzureNamingTool) ⭐ 609 | 🐛 17 | 🌐 C# | 📅 2026-11-05
-* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 450 | 🐛 152 | 🌐 PowerShell | 📅 2026-11-09
+* [PSRule for Azure](https://github.com/Azure/PSRule.Rules.Azure) ⭐ 450 | 🐛 153 | 🌐 PowerShell | 📅 2026-11-10
 * [Cloud Adoption Framework repository](https://github.com/MicrosoftDocs/cloud-adoption-framework) ⭐ 432 | 🐛 1 | 📅 2026-11-09
 * [AVDAccelerator](https://github.com/Azure/avdaccelerator) ⭐ 428 | 🐛 24 | 🌐 Bicep | 📅 2026-08-19
 * [Mission LZ (Landing Zone)](https://github.com/Azure/missionlz) ⭐ 297 | 🐛 85 | 🌐 Bicep | 📅 2026-11-02
@@ -232,7 +232,7 @@ Official Microsoft open-source initiatives and repositories.
 * [Data Management & Analytics Scenario - Data Landing Zone](https://github.com/Azure/data-landing-zone) ⚠️ Archived
 * [DevOps Tooling for Well-Architected Recommendation Process](https://github.com/Azure/WellArchitected-Tools/tree/main/WARP/devops#readme) ⭐ 159 | 🐛 14 | 🌐 PowerShell | 📅 2026-04-20
 * [Azure Landing Zones for Canadian Public Sector](https://github.com/Azure/CanadaPubSecALZ) ⭐ 142 | 🐛 3 | 🌐 Bicep | 📅 2026-09-14
-* [Azure Landing Zones Terraform AVM pattern module](https://github.com/Azure/terraform-azurerm-avm-ptn-alz) ⭐ 134 | 🐛 6 | 🌐 HCL | 📅 2026-11-10
+* [Azure Landing Zones Terraform AVM pattern module](https://github.com/Azure/terraform-azurerm-avm-ptn-alz) ⭐ 134 | 🐛 6 | 🌐 HCL | 📅 2026-11-11
 * [Bicep subscription vending](https://github.com/Azure/bicep-lz-vending) ⚠️ Archived
 * [ALZ-PowerShell-Module](https://github.com/Azure/ALZ-PowerShell-Module) ⭐ 115 | 🐛 3 | 🌐 PowerShell | 📅 2026-09-08
 * [Azure Connectivity Toolkit (AzureCT)](https://github.com/Azure/NetworkMonitoring/tree/main/AzureCT) ⭐ 114 | 🐛 7 | 🌐 PowerShell | 📅 2025-03-26
@@ -289,10 +289,10 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,750 | 🐛 340 | 🌐 C# | 📅 2026-11-09
-* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,660 | 🐛 1,072 | 🌐 Bicep | 📅 2026-11-10
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 573 | 🐛 713 | 🌐 Go | 📅 2026-11-10
-* [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 470 | 🐛 42 | 🌐 PowerShell | 📅 2026-11-05
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,754 | 🐛 343 | 🌐 C# | 📅 2026-11-10
+* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,659 | 🐛 1,068 | 🌐 Bicep | 📅 2026-11-11
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 573 | 🐛 699 | 🌐 Go | 📅 2026-11-11
+* [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 471 | 🐛 42 | 🌐 PowerShell | 📅 2026-11-05
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 113 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 83 | 🐛 0 | 📅 2026-10-30
 * [Azure Kubernetes Service (AKS) Community](https://github.com/theakscommunity/aks-community-meetings) ⭐ 17 | 🐛 0 | 📅 2024-04-26
@@ -373,11 +373,11 @@ Community blogs and articles.
 
 Community-created tools and repositories.
 
-* [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer) ⭐ 2,220 | 🐛 82 | 🌐 C# | 📅 2026-10-28
-* [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL) ⭐ 1,201 | 🐛 0 | 📅 2026-10-09
+* [Service Bus Explorer](https://github.com/paolosalvatori/ServiceBusExplorer) ⭐ 2,221 | 🐛 83 | 🌐 C# | 📅 2026-10-28
+* [Must Learn KQL - the series, the book, the merch store](https://github.com/rod-trent/MustLearnKQL) ⭐ 1,202 | 🐛 0 | 📅 2026-10-09
 * [AzGovViz](https://github.com/JulianHayward/Azure-MG-Sub-Governance-Reporting) ⭐ 988 | 🐛 4 | 🌐 PowerShell | 📅 2026-09-11
 * [Cloud Native Architecture Mapbook](https://github.com/PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook) ⭐ 344 | 🐛 1 | 🌐 C# | 📅 2026-04-22
-* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 342 | 🐛 4 | 🌐 PowerShell | 📅 2026-10-27
+* [EntraOps](https://github.com/Cloud-Architekt/EntraOps) ⭐ 342 | 🐛 5 | 🌐 PowerShell | 📅 2026-10-27
 * [Azure Tenant Security Solution (AzTS)](https://github.com/azsk/AzTS-docs) ⭐ 315 | 🐛 29 | 🌐 PowerShell | 📅 2026-08-27
 * [Traffic Flow in Common Azure Networking Patterns](https://github.com/mattfeltonma/azure-networking-patterns) ⭐ 166 | 🐛 0 | 📅 2024-08-29
 * [The Azure Kubernetes Service Checklist](https://github.com/lgmorand/the-aks-checklist) ⭐ 158 | 🐛 0 | 🌐 HTML | 📅 2026-11-05
@@ -387,7 +387,7 @@ Community-created tools and repositories.
 * [Azure Key Vault Explorer](https://github.com/cricketthomas/AzureKeyVaultExplorer) ⭐ 119 | 🐛 16 | 🌐 C# | 📅 2026-10-26
 * [Topaz - Local Azure environment emulation for development](https://github.com/TheCloudTheory/Topaz) ⭐ 56 | 🐛 51 | 🌐 C# | 📅 2026-11-09
 * [Awesome Azure Local](https://github.com/schmittnieto/awesome-azure-local) ⭐ 18 | 🐛 2 | 📅 2026-10-25
-* [Awesome Azure Virtual Desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop) ⭐ 11 | 🐛 33 | 📅 2026-10-25
+* [Awesome Azure Virtual Desktop](https://github.com/schmittnieto/awesome-azure-virtual-desktop) ⭐ 11 | 🐛 0 | 📅 2026-11-11
 * [Azure Virtual Network Capacity Planner](https://github.com/chunliu/vnet-capacity-planner) ⭐ 8 | 🐛 1 | 🌐 JavaScript | 📅 2022-09-01
 * [Azure Architecture](https://github.com/lukemurraynz/Azure-Architecture) ⭐ 6 | 🐛 0 | 📅 2022-12-08
 * [fairfax](https://github.com/intikhab49/fairfax) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2026-10-19 - Checks a GCC, GCC High, DoD or Azure Government plan against Microsoft's own feature availability tables, and finds commercial endpoints in code that belong to the wrong cloud.
@@ -453,4 +453,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
