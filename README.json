@@ -18,7 +18,7 @@
                 "language": "Bicep",
                 "license": "MIT",
                 "last_commit": "2026-11-11T22:56:32Z",
-                "open_issues": 1025,
+                "open_issues": 1027,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
                 "stars": 14905,
@@ -45,11 +45,11 @@
                 "id": 93381875,
                 "language": "Scala",
                 "license": "MIT",
-                "last_commit": "2026-11-13T12:06:49Z",
+                "last_commit": "2026-11-13T21:49:34Z",
                 "open_issues": 147,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5255,
+                "stars": 5256,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -91,7 +91,7 @@
                 "open_issues": 11,
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
-                "stars": 1968,
+                "stars": 1967,
                 "topics": [
                   "alz",
                   "architecture",
@@ -124,7 +124,7 @@
                 "open_issues": 60,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1960,
+                "stars": 1959,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -224,7 +224,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
-                "stars": 946,
+                "stars": 945,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -378,7 +378,7 @@
                 "open_issues": 17,
                 "owner": "Azure",
                 "repo": "AzureNamingTool",
-                "stars": 609,
+                "stars": 615,
                 "topics": [
                   "azure",
                   "best-practice",
@@ -433,7 +433,7 @@
                 "id": 202399660,
                 "language": null,
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-12T15:37:25Z",
+                "last_commit": "2026-11-14T01:04:23Z",
                 "open_issues": 0,
                 "owner": "MicrosoftDocs",
                 "repo": "cloud-adoption-framework",
@@ -511,7 +511,7 @@
                 "open_issues": 15,
                 "owner": "Azure",
                 "repo": "AKS-Landing-Zone-Accelerator",
-                "stars": 289,
+                "stars": 288,
                 "topics": [
                   "lza"
                 ]
@@ -867,8 +867,8 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-12T19:18:25Z",
-                "open_issues": 344,
+                "last_commit": "2026-11-13T16:16:44Z",
+                "open_issues": 343,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28762,
@@ -894,8 +894,8 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-13T09:16:11Z",
-                "open_issues": 1064,
+                "last_commit": "2026-11-14T10:20:27Z",
+                "open_issues": 1065,
                 "owner": "Azure",
                 "repo": "bicep",
                 "stars": 3661,
@@ -919,8 +919,8 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-13T10:00:59Z",
-                "open_issues": 704,
+                "last_commit": "2026-11-13T23:57:49Z",
+                "open_issues": 707,
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 574,
@@ -1073,7 +1073,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-13T14:33:31Z",
-                "open_issues": 80,
+                "open_issues": 81,
                 "owner": "paolosalvatori",
                 "repo": "ServiceBusExplorer",
                 "stars": 2223,
@@ -1112,7 +1112,7 @@
                 "open_issues": 0,
                 "owner": "rod-trent",
                 "repo": "MustLearnKQL",
-                "stars": 1202,
+                "stars": 1201,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1133,7 +1133,7 @@
                 "open_issues": 4,
                 "owner": "JulianHayward",
                 "repo": "Azure-MG-Sub-Governance-Reporting",
-                "stars": 988,
+                "stars": 987,
                 "topics": [
                   "azure",
                   "azure-policies",
@@ -1160,7 +1160,7 @@
                 "open_issues": 1,
                 "owner": "PacktPublishing",
                 "repo": "The-Azure-Cloud-Native-Architecture-Mapbook",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1272,8 +1272,8 @@
                 "id": 859829892,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-13T13:51:02Z",
-                "open_issues": 29,
+                "last_commit": "2026-11-14T08:48:51Z",
+                "open_issues": 32,
                 "owner": "macalbert",
                 "repo": "envilder",
                 "stars": 138,
@@ -1404,7 +1404,7 @@
                 "id": 972009675,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-13T08:25:40Z",
+                "last_commit": "2026-11-14T08:29:57Z",
                 "open_issues": 51,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T14:55:22.204Z",
+    "last_updated": "2026-11-14T13:48:18.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
@@ -1673,7 +1673,7 @@
       "open_issues": 0,
       "owner": "lukemurraynz",
       "repo": "awesome-azure-architecture",
-      "stars": 1736,
+      "stars": 1737,
       "topics": [
         "architecture",
         "awesome",
