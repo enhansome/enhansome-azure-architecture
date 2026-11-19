@@ -17,11 +17,11 @@
                 "id": 34407651,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-11T22:56:32Z",
-                "open_issues": 1030,
+                "last_commit": "2026-11-18T22:54:30Z",
+                "open_issues": 1029,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14912,
+                "stars": 14911,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -91,7 +91,7 @@
                 "open_issues": 11,
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
-                "stars": 1969,
+                "stars": 1968,
                 "topics": [
                   "alz",
                   "architecture",
@@ -121,7 +121,7 @@
                 "language": "PowerShell",
                 "license": "MIT",
                 "last_commit": "2026-11-17T18:37:29Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
                 "stars": 1960,
@@ -141,8 +141,8 @@
                 "id": 318340455,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-16T12:21:52Z",
-                "open_issues": 4,
+                "last_commit": "2026-11-18T18:05:54Z",
+                "open_issues": 3,
                 "owner": "microsoft",
                 "repo": "ARI",
                 "stars": 1725,
@@ -177,7 +177,7 @@
                 "open_issues": 73,
                 "owner": "Azure",
                 "repo": "review-checklists",
-                "stars": 1334,
+                "stars": 1333,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -224,7 +224,7 @@
                 "open_issues": 23,
                 "owner": "Azure",
                 "repo": "Azure-Network-Security",
-                "stars": 947,
+                "stars": 946,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -276,7 +276,7 @@
                 "open_issues": 7,
                 "owner": "Azure",
                 "repo": "azqr",
-                "stars": 802,
+                "stars": 801,
                 "topics": [
                   "aprl",
                   "assessment",
@@ -306,7 +306,7 @@
                 "open_issues": 12,
                 "owner": "Azure",
                 "repo": "CCOInsights",
-                "stars": 762,
+                "stars": 761,
                 "topics": [
                   "asc",
                   "azure",
@@ -342,7 +342,7 @@
                 "open_issues": 0,
                 "owner": "mspnp",
                 "repo": "aks-baseline",
-                "stars": 753,
+                "stars": 752,
                 "topics": [
                   "aks",
                   "architecture",
@@ -399,11 +399,11 @@
                 "id": 184154668,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-18T15:24:40Z",
-                "open_issues": 151,
+                "last_commit": "2026-11-19T15:24:45Z",
+                "open_issues": 149,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
-                "stars": 450,
+                "stars": 449,
                 "topics": [
                   "azure",
                   "azure-templates",
@@ -458,7 +458,7 @@
                 "open_issues": 24,
                 "owner": "Azure",
                 "repo": "avdaccelerator",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "automation",
                   "avd",
@@ -490,7 +490,7 @@
                 "open_issues": 85,
                 "owner": "Azure",
                 "repo": "missionlz",
-                "stars": 297,
+                "stars": 296,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -511,7 +511,7 @@
                 "open_issues": 15,
                 "owner": "Azure",
                 "repo": "AKS-Landing-Zone-Accelerator",
-                "stars": 287,
+                "stars": 286,
                 "topics": [
                   "lza"
                 ]
@@ -534,7 +534,7 @@
                 "open_issues": 29,
                 "owner": "Azure",
                 "repo": "appservice-landing-zone-accelerator",
-                "stars": 238,
+                "stars": 237,
                 "topics": [
                   "app-service",
                   "app-service-environment",
@@ -670,11 +670,11 @@
                 "id": 627965891,
                 "language": "HCL",
                 "license": "MIT",
-                "last_commit": "2026-11-18T04:17:44Z",
+                "last_commit": "2026-11-19T12:10:14Z",
                 "open_issues": 3,
                 "owner": "Azure",
                 "repo": "terraform-azurerm-avm-ptn-alz",
-                "stars": 134,
+                "stars": 133,
                 "topics": [
                   "avm",
                   "azure-verified-modules"
@@ -867,11 +867,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:20:16Z",
-                "open_issues": 358,
+                "last_commit": "2026-11-19T15:52:34Z",
+                "open_issues": 359,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28787,
+                "stars": 28789,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -894,11 +894,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-18T15:01:50Z",
-                "open_issues": 1065,
+                "last_commit": "2026-11-19T10:22:41Z",
+                "open_issues": 1056,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3661,
+                "stars": 3660,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -919,8 +919,8 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:10:36Z",
-                "open_issues": 721,
+                "last_commit": "2026-11-19T14:07:25Z",
+                "open_issues": 723,
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 574,
@@ -1073,10 +1073,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-17T12:19:28Z",
-                "open_issues": 81,
+                "open_issues": 83,
                 "owner": "paolosalvatori",
                 "repo": "ServiceBusExplorer",
-                "stars": 2224,
+                "stars": 2225,
                 "topics": [
                   "azure",
                   "azure-event-hub",
@@ -1133,7 +1133,7 @@
                 "open_issues": 4,
                 "owner": "JulianHayward",
                 "repo": "Azure-MG-Sub-Governance-Reporting",
-                "stars": 987,
+                "stars": 986,
                 "topics": [
                   "azure",
                   "azure-policies",
@@ -1250,7 +1250,7 @@
                 "open_issues": 0,
                 "owner": "lgmorand",
                 "repo": "the-aks-checklist",
-                "stars": 158,
+                "stars": 157,
                 "topics": [
                   "aks",
                   "azure",
@@ -1272,8 +1272,8 @@
                 "id": 859829892,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-18T15:30:33Z",
-                "open_issues": 30,
+                "last_commit": "2026-11-18T16:36:27Z",
+                "open_issues": 31,
                 "owner": "macalbert",
                 "repo": "envilder",
                 "stars": 139,
@@ -1364,7 +1364,7 @@
                 "id": 593706186,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-18T13:21:51Z",
+                "last_commit": "2026-11-19T04:21:48Z",
                 "open_issues": 17,
                 "owner": "cricketthomas",
                 "repo": "AzureKeyVaultExplorer",
@@ -1404,7 +1404,7 @@
                 "id": 972009675,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-18T11:28:27Z",
+                "last_commit": "2026-11-19T11:41:23Z",
                 "open_issues": 51,
                 "owner": "TheCloudTheory",
                 "repo": "Topaz",
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:58:43.869Z",
+    "last_updated": "2026-11-19T16:04:52.128Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
@@ -1673,7 +1673,7 @@
       "open_issues": 2,
       "owner": "lukemurraynz",
       "repo": "awesome-azure-architecture",
-      "stars": 1737,
+      "stars": 1738,
       "topics": [
         "architecture",
         "awesome",
