@@ -211,7 +211,7 @@ Official Microsoft open-source initiatives and repositories.
 
 * [Azure Quickstart Templates](https://github.com/Azure/azure-quickstart-templates) ⭐ 14,915 | 🐛 1,030 | 🌐 Bicep | 📅 2026-11-18
 * [Synapse Machine Learning](https://github.com/microsoft/SynapseML) ⭐ 5,257 | 🐛 149 | 🌐 Scala | 📅 2026-11-18
-* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,969 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-11
+* [Enterprise-Scale - Reference Implementation](https://github.com/Azure/Enterprise-Scale) ⭐ 1,970 | 🐛 11 | 🌐 PowerShell | 📅 2026-11-11
 * [Microsoft Defender for Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud) ⭐ 1,959 | 🐛 64 | 🌐 PowerShell | 📅 2026-11-17
 * [Azure Resource Inventory](https://github.com/microsoft/ARI) ⭐ 1,723 | 🐛 3 | 🌐 PowerShell | 📅 2026-11-18
 * [Azure Review Checklists](https://github.com/Azure/review-checklists) ⭐ 1,333 | 🐛 73 | 🌐 Python | 📅 2026-11-20
@@ -289,9 +289,9 @@ Official Microsoft product feedback sources.
 
 Microsoft delivered community engagement meetings.
 
-* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,791 | 🐛 374 | 🌐 C# | 📅 2026-11-20
-* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,660 | 🐛 1,059 | 🌐 Bicep | 📅 2026-11-21
-* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 574 | 🐛 720 | 🌐 Go | 📅 2026-11-21
+* [Semantic Kernel Community Calls](https://github.com/microsoft/semantic-kernel/blob/main/COMMUNITY.md) ⭐ 28,791 | 🐛 382 | 🌐 C# | 📅 2026-11-20
+* [Azure ARM/Bicep Community Calls](https://github.com/Azure/bicep/issues?q=label%3A%22Community+Call%22+) ⭐ 3,660 | 🐛 1,058 | 🌐 Bicep | 📅 2026-11-22
+* [Azure Development Community Call](https://github.com/Azure/azure-dev/discussions/categories/announcements) ⭐ 574 | 🐛 720 | 🌐 Go | 📅 2026-11-22
 * [PowerShell](https://github.com/PowerShell/PowerShell-RFC/tree/master/CommunityCall) ⭐ 470 | 🐛 42 | 🌐 PowerShell | 📅 2026-11-05
 * [Adaptive Cloud Community](https://github.com/microsoft/adaptive_cloud_community) ⭐ 113 | 🐛 0 | 📅 2025-08-04
 * [Radius Community Meetings](https://github.com/radius-project/community#community-meetings) ⭐ 83 | 🐛 0 | 📅 2026-10-30
@@ -453,4 +453,4 @@ Community delivered and supported Slack.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
