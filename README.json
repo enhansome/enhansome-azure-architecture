@@ -21,7 +21,7 @@
                 "open_issues": 1031,
                 "owner": "Azure",
                 "repo": "azure-quickstart-templates",
-                "stars": 14914,
+                "stars": 14916,
                 "topics": [
                   "arm",
                   "arm-templates",
@@ -49,7 +49,7 @@
                 "open_issues": 152,
                 "owner": "microsoft",
                 "repo": "SynapseML",
-                "stars": 5257,
+                "stars": 5258,
                 "topics": [
                   "ai",
                   "apache-spark",
@@ -87,8 +87,8 @@
                 "id": 264303818,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-11T01:53:02Z",
-                "open_issues": 11,
+                "last_commit": "2026-11-24T09:28:37Z",
+                "open_issues": 12,
                 "owner": "Azure",
                 "repo": "Enterprise-Scale",
                 "stars": 1970,
@@ -124,7 +124,7 @@
                 "open_issues": 64,
                 "owner": "Azure",
                 "repo": "Microsoft-Defender-for-Cloud",
-                "stars": 1959,
+                "stars": 1960,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -145,7 +145,7 @@
                 "open_issues": 2,
                 "owner": "microsoft",
                 "repo": "ARI",
-                "stars": 1723,
+                "stars": 1738,
                 "topics": [
                   "architecture",
                   "azure",
@@ -399,8 +399,8 @@
                 "id": 184154668,
                 "language": "PowerShell",
                 "license": "MIT",
-                "last_commit": "2026-11-23T15:25:00Z",
-                "open_issues": 150,
+                "last_commit": "2026-11-24T15:23:14Z",
+                "open_issues": 151,
                 "owner": "Azure",
                 "repo": "PSRule.Rules.Azure",
                 "stars": 448,
@@ -867,11 +867,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-23T10:50:46Z",
-                "open_issues": 383,
+                "last_commit": "2026-11-23T22:28:29Z",
+                "open_issues": 387,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28796,
+                "stars": 28802,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -894,11 +894,11 @@
                 "id": 263503250,
                 "language": "Bicep",
                 "license": "MIT",
-                "last_commit": "2026-11-23T16:44:35Z",
-                "open_issues": 1057,
+                "last_commit": "2026-11-24T16:22:16Z",
+                "open_issues": 1056,
                 "owner": "Azure",
                 "repo": "bicep",
-                "stars": 3660,
+                "stars": 3661,
                 "topics": [
                   "arm-json",
                   "arm-templates",
@@ -919,8 +919,8 @@
                 "id": 510889311,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-23T18:07:18Z",
-                "open_issues": 717,
+                "last_commit": "2026-11-24T16:19:43Z",
+                "open_issues": 705,
                 "owner": "Azure",
                 "repo": "azure-dev",
                 "stars": 574,
@@ -951,7 +951,7 @@
                 "open_issues": 42,
                 "owner": "PowerShell",
                 "repo": "PowerShell-RFC",
-                "stars": 470,
+                "stars": 471,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
@@ -1072,8 +1072,8 @@
                 "id": 23918333,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-23T08:01:34Z",
-                "open_issues": 86,
+                "last_commit": "2026-11-24T14:01:39Z",
+                "open_issues": 82,
                 "owner": "paolosalvatori",
                 "repo": "ServiceBusExplorer",
                 "stars": 2225,
@@ -1146,6 +1146,33 @@
             },
             {
               "node_type": "item",
+              "title": "EntraOps",
+              "description": "Cloud-Architekt/EntraOps",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Community project to classify, identify and protect your privileges based on Enterprise Access Model (EAM)",
+                "homepage": "https://www.entraops.com",
+                "id": 804524445,
+                "language": "PowerShell",
+                "license": "MIT",
+                "last_commit": "2026-11-24T13:29:38Z",
+                "open_issues": 7,
+                "owner": "Cloud-Architekt",
+                "repo": "EntraOps",
+                "stars": 346,
+                "topics": [
+                  "azuread",
+                  "microsoftentraid",
+                  "powershell",
+                  "privileged-access-management",
+                  "privileged-access-security"
+                ]
+              },
+              "first_seen": "2026-08-28T19:01:06.521Z"
+            },
+            {
+              "node_type": "item",
               "title": "Cloud Native Architecture Mapbook",
               "description": "PacktPublishing/The-Azure-Cloud-Native-Architecture-Mapbook",
               "children": [],
@@ -1162,33 +1189,6 @@
                 "repo": "The-Azure-Cloud-Native-Architecture-Mapbook",
                 "stars": 345,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T19:01:06.521Z"
-            },
-            {
-              "node_type": "item",
-              "title": "EntraOps",
-              "description": "Cloud-Architekt/EntraOps",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Community project to classify, identify and protect your privileges based on Enterprise Access Model (EAM)",
-                "homepage": "https://www.entraops.com",
-                "id": 804524445,
-                "language": "PowerShell",
-                "license": "MIT",
-                "last_commit": "2026-11-23T10:04:41Z",
-                "open_issues": 7,
-                "owner": "Cloud-Architekt",
-                "repo": "EntraOps",
-                "stars": 345,
-                "topics": [
-                  "azuread",
-                  "microsoftentraid",
-                  "powershell",
-                  "privileged-access-management",
-                  "privileged-access-security"
-                ]
               },
               "first_seen": "2026-08-28T19:01:06.521Z"
             },
@@ -1661,7 +1661,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T18:45:55.524Z",
+    "last_updated": "2026-11-24T18:20:53.842Z",
     "original_repository_info": {
       "archived": false,
       "description": "AWESOME-Azure-Architecture - https://aka.ms/AwesomeAzureArchitecture",
